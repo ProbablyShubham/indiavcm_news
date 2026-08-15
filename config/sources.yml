@@ -1,128 +1,357 @@
-# Public feed discovery for India VCM / carbon-market intelligence.
-# Google News RSS is used as the common transport so no API key is required.
-# The pipeline stores headline, publisher, timestamp, RSS snippet and outbound link only.
+# India VCM News discovery configuration v2
+# Drop-in replacement for config/sources.yml in ProbablyShubham/indiavcm_news.
+# Uses Google News RSS as transport; no API key required.
+#
+# Design goals:
+# - broader India carbon-market coverage without indiscriminate "carbon" noise
+# - more direct regulatory / registry / specialist-market discovery
+# - more Indian business and environmental reporting
+# - explicit developer/project discovery channels
+# - source/topic segmentation for useful news_meta.json diagnostics
+#
+# NOTE: This YAML expands static discovery. Dynamic searches for every developer
+# in news_entity_index.json require the companion collector patch planned next.
+
 sources:
+  # ---------------------------------------------------------------------------
+  # Core India VCM / carbon-credit discovery
+  # ---------------------------------------------------------------------------
   - id: india_vcm_core
     name: India VCM core
     type: google_news
-    query: '("voluntary carbon market" OR "carbon credits" OR "carbon offset") India'
-    priority: 1.00
-    max_items: 40
+    query: '("voluntary carbon market" OR "voluntary carbon markets" OR "carbon credits" OR "carbon offset" OR "carbon offsets") India'
+    priority: 1.05
+    max_items: 60
 
-  - id: india_carbon_market_policy
-    name: Indian carbon-market policy
+  - id: india_carbon_projects
+    name: India carbon projects
     type: google_news
-    query: '("Indian Carbon Market" OR "Carbon Credit Trading Scheme" OR CCTS OR "carbon market") India'
+    query: 'India ("carbon project" OR "carbon credit project" OR "offset project" OR "VCM project")'
     priority: 1.00
-    max_items: 40
+    max_items: 50
+
+  - id: india_registry_projects
+    name: India registry projects
+    type: google_news
+    query: 'India (Verra OR VCS OR "Gold Standard") (project OR credits OR issuance OR methodology OR registry)'
+    priority: 1.05
+    max_items: 50
+
+  - id: india_issuance_retirement
+    name: India issuance and retirement
+    type: google_news
+    query: 'India ("carbon credits" OR Verra OR "Gold Standard") (issuance OR issued OR retirement OR retired OR credits)'
+    priority: 0.95
+    max_items: 45
+
+  # ---------------------------------------------------------------------------
+  # Indian Carbon Market / CCTS / policy
+  # ---------------------------------------------------------------------------
+  - id: india_carbon_market_policy
+    name: Indian Carbon Market / CCTS
+    type: google_news
+    query: '("Indian Carbon Market" OR "Carbon Credit Trading Scheme" OR CCTS OR "offset mechanism") India'
+    priority: 1.15
+    max_items: 60
+
+  - id: india_ccts_methodologies
+    name: CCTS methodologies and consultations
+    type: google_news
+    query: 'India CCTS (methodology OR methodologies OR consultation OR offset OR accreditation OR verification OR validation)'
+    priority: 1.10
+    max_items: 50
 
   - id: india_article6
     name: India Article 6
     type: google_news
-    query: '("Article 6" OR "Article 6.2" OR "Article 6.4") India carbon'
-    priority: 0.95
-    max_items: 30
+    query: 'India ("Article 6" OR "Article 6.2" OR "Article 6.4" OR JCM OR "Joint Crediting Mechanism") carbon'
+    priority: 1.10
+    max_items: 50
 
-  - id: bee_official
-    name: Bureau of Energy Efficiency / ICM
+  - id: india_carbon_market_launch
+    name: India carbon-market implementation
     type: google_news
-    query: 'site:beeindia.gov.in ("Indian Carbon Market" OR "Carbon Credit Trading Scheme" OR CCTS OR carbon)'
-    priority: 1.15
+    query: 'India ("carbon market portal" OR "carbon trading" OR "carbon exchange" OR registry OR administrator) (CCTS OR carbon)'
+    priority: 1.00
+    max_items: 45
+
+  # ---------------------------------------------------------------------------
+  # Official Indian sources
+  # ---------------------------------------------------------------------------
+  - id: bee_official
+    name: Bureau of Energy Efficiency / Indian Carbon Market
+    type: google_news
+    query: 'site:beeindia.gov.in ("Indian Carbon Market" OR "Carbon Credit Trading Scheme" OR CCTS OR "offset mechanism" OR "carbon credit")'
+    priority: 1.25
     official: true
-    max_items: 30
+    max_items: 45
 
   - id: pib_official
     name: Government of India / PIB
     type: google_news
-    query: 'site:pib.gov.in ("carbon credit" OR "carbon market" OR CCTS OR "Article 6")'
-    priority: 1.10
+    query: 'site:pib.gov.in ("carbon credit" OR "carbon market" OR CCTS OR "Article 6" OR "offset mechanism")'
+    priority: 1.20
     official: true
-    max_items: 30
+    max_items: 45
 
   - id: moefcc_official
     name: MoEFCC
     type: google_news
-    query: 'site:moef.gov.in ("carbon market" OR "carbon credit" OR "Article 6") India'
-    priority: 1.10
+    query: 'site:moef.gov.in ("carbon market" OR "carbon credit" OR "Article 6" OR offset OR registry) India'
+    priority: 1.20
     official: true
-    max_items: 25
+    max_items: 40
 
+  - id: power_ministry_official
+    name: Ministry of Power
+    type: google_news
+    query: 'site:powermin.gov.in ("Carbon Credit Trading Scheme" OR CCTS OR "carbon market" OR "carbon credit")'
+    priority: 1.15
+    official: true
+    max_items: 35
+
+  - id: mnre_official
+    name: Ministry of New and Renewable Energy
+    type: google_news
+    query: 'site:mnre.gov.in ("carbon credit" OR "carbon market" OR carbon offset OR CCTS)'
+    priority: 1.05
+    official: true
+    max_items: 30
+
+  # ---------------------------------------------------------------------------
+  # Registries / standards / multilateral bodies
+  # ---------------------------------------------------------------------------
   - id: verra_official
     name: Verra
     type: google_news
-    query: 'site:verra.org (India OR "South Asia") (VCS OR carbon OR methodology OR project)'
-    priority: 1.10
+    query: 'site:verra.org (India OR "South Asia") (VCS OR carbon OR methodology OR project OR issuance OR registry)'
+    priority: 1.20
     official: true
-    max_items: 30
+    max_items: 45
+
+  - id: verra_global_relevant
+    name: Verra global developments
+    type: google_news
+    query: 'site:verra.org (VCS OR methodology OR registry OR issuance OR integrity) (carbon market OR credits)'
+    priority: 0.90
+    official: true
+    max_items: 35
 
   - id: gold_standard_official
     name: Gold Standard
     type: google_news
-    query: 'site:goldstandard.org (India OR "South Asia") (carbon OR methodology OR project OR registry)'
-    priority: 1.10
+    query: 'site:goldstandard.org (India OR "South Asia") (carbon OR methodology OR project OR registry OR issuance)'
+    priority: 1.20
     official: true
-    max_items: 30
+    max_items: 45
+
+  - id: gold_standard_global_relevant
+    name: Gold Standard global developments
+    type: google_news
+    query: 'site:goldstandard.org (methodology OR registry OR carbon credits OR integrity OR project)'
+    priority: 0.90
+    official: true
+    max_items: 35
 
   - id: unfccc_official
     name: UNFCCC
     type: google_news
-    query: 'site:unfccc.int India ("Article 6" OR "carbon market" OR carbon credits)'
-    priority: 1.05
+    query: 'site:unfccc.int India ("Article 6" OR "carbon market" OR "carbon credits" OR corresponding adjustment)'
+    priority: 1.15
     official: true
-    max_items: 25
+    max_items: 40
 
   - id: integrity_standards
-    name: Carbon-market integrity standards
+    name: ICVCM / VCMI / integrity standards
     type: google_news
-    query: '(ICVCM OR VCMI OR "Core Carbon Principles") India carbon'
-    priority: 0.90
-    max_items: 25
-
-  - id: verra_india
-    name: Verra projects in India
-    type: google_news
-    query: 'Verra India ("carbon project" OR "carbon credits" OR VCS)'
+    query: '(ICVCM OR VCMI OR "Core Carbon Principles" OR CCP) (India OR "carbon market" OR credits)'
     priority: 0.95
-    max_items: 30
+    max_items: 40
 
-  - id: gold_standard_india
-    name: Gold Standard projects in India
+  # ---------------------------------------------------------------------------
+  # Specialist carbon-market publications
+  # ---------------------------------------------------------------------------
+  - id: carbon_pulse_india
+    name: Carbon Pulse — India
     type: google_news
-    query: '"Gold Standard" India ("carbon project" OR "carbon credits" OR methodology)'
+    query: 'site:carbon-pulse.com India ("carbon market" OR "carbon credit" OR CCTS OR Verra OR "Article 6")'
+    priority: 1.20
+    max_items: 55
+
+  - id: carbon_pulse_projects
+    name: Carbon Pulse — projects and methodologies
+    type: google_news
+    query: 'site:carbon-pulse.com India (project OR methodology OR offset OR registry OR issuance) carbon'
+    priority: 1.10
+    max_items: 45
+
+  - id: carbon_herald_india
+    name: Carbon Herald — India
+    type: google_news
+    query: 'site:carbonherald.com India ("carbon credits" OR "carbon market" OR Verra OR offset)'
     priority: 0.95
-    max_items: 30
-
-  - id: india_project_sectors
-    name: India project sectors
-    type: google_news
-    query: '(biochar OR cookstove OR afforestation OR methane OR rice OR biogas OR forestry) India ("carbon credits" OR "carbon project")'
-    priority: 0.80
     max_items: 35
 
-  - id: india_business_press
-    name: India business press
+  # ---------------------------------------------------------------------------
+  # Indian business / financial press
+  # ---------------------------------------------------------------------------
+  - id: business_standard_india
+    name: Business Standard
     type: google_news
-    query: '("carbon credits" OR "voluntary carbon market" OR CCTS) India (company OR project OR investment OR market)'
-    priority: 0.85
+    query: 'site:business-standard.com India ("carbon credits" OR "carbon market" OR CCTS OR "Article 6" OR Verra)'
+    priority: 1.05
+    max_items: 55
+
+  - id: economic_times_india
+    name: Economic Times
+    type: google_news
+    query: 'site:economictimes.indiatimes.com India ("carbon credits" OR "carbon market" OR CCTS OR "carbon offset")'
+    priority: 1.00
+    max_items: 50
+
+  - id: mint_india
+    name: Mint
+    type: google_news
+    query: 'site:livemint.com India ("carbon credits" OR "carbon market" OR CCTS OR "carbon offset")'
+    priority: 1.00
+    max_items: 45
+
+  - id: moneycontrol_india
+    name: Moneycontrol
+    type: google_news
+    query: 'site:moneycontrol.com India ("carbon credits" OR "carbon market" OR CCTS OR "carbon offset")'
+    priority: 1.00
+    max_items: 50
+
+  - id: businessline_india
+    name: BusinessLine
+    type: google_news
+    query: 'site:thehindubusinessline.com India ("carbon credits" OR "carbon market" OR CCTS OR "carbon offset")'
+    priority: 0.95
+    max_items: 45
+
+  - id: financial_express_india
+    name: Financial Express
+    type: google_news
+    query: 'site:financialexpress.com India ("carbon credits" OR "carbon market" OR CCTS OR "carbon offset")'
+    priority: 0.90
     max_items: 40
 
   - id: reuters_india
     name: Reuters
     type: google_news
-    query: 'site:reuters.com India ("carbon credits" OR "carbon market" OR "carbon offset")'
-    priority: 1.00
-    max_items: 25
+    query: 'site:reuters.com India ("carbon credits" OR "carbon market" OR "carbon offset" OR CCTS OR "Article 6")'
+    priority: 1.15
+    max_items: 40
 
+  # ---------------------------------------------------------------------------
+  # Indian environment / climate reporting
+  # ---------------------------------------------------------------------------
   - id: mongabay_india
     name: Mongabay India
     type: google_news
-    query: 'site:india.mongabay.com ("carbon credits" OR "carbon market" OR offset)'
-    priority: 0.90
-    max_items: 25
+    query: 'site:india.mongabay.com ("carbon credits" OR "carbon market" OR offset OR Verra OR "Gold Standard")'
+    priority: 1.00
+    max_items: 40
 
   - id: downtoearth_india
     name: Down To Earth
     type: google_news
-    query: 'site:downtoearth.org.in India ("carbon credits" OR "carbon market" OR offset)'
+    query: 'site:downtoearth.org.in India ("carbon credits" OR "carbon market" OR offset OR CCTS OR "Article 6")'
+    priority: 1.00
+    max_items: 40
+
+  - id: the_hindu_climate
+    name: The Hindu
+    type: google_news
+    query: 'site:thehindu.com India ("carbon credits" OR "carbon market" OR CCTS OR "carbon offset")'
     priority: 0.90
-    max_items: 25
+    max_items: 35
+
+  - id: indian_express_climate
+    name: Indian Express
+    type: google_news
+    query: 'site:indianexpress.com India ("carbon credits" OR "carbon market" OR CCTS OR "carbon offset")'
+    priority: 0.90
+    max_items: 35
+
+  # ---------------------------------------------------------------------------
+  # Project-sector discovery
+  # ---------------------------------------------------------------------------
+  - id: india_nature_projects
+    name: India nature-based carbon projects
+    type: google_news
+    query: 'India (afforestation OR reforestation OR forestry OR agroforestry OR mangrove OR REDD OR "nature based") ("carbon credit" OR "carbon project" OR offset)'
+    priority: 0.90
+    max_items: 50
+
+  - id: india_household_projects
+    name: India household and community carbon projects
+    type: google_news
+    query: 'India (cookstove OR cookstoves OR biogas OR household OR community) ("carbon credits" OR "carbon project" OR Verra OR "Gold Standard")'
+    priority: 0.90
+    max_items: 50
+
+  - id: india_methane_agriculture
+    name: India methane and agriculture projects
+    type: google_news
+    query: 'India (methane OR rice OR livestock OR manure OR waste OR landfill) ("carbon credits" OR "carbon project" OR offset)'
+    priority: 0.90
+    max_items: 50
+
+  - id: india_biochar_removals
+    name: India biochar and removals
+    type: google_news
+    query: 'India (biochar OR "carbon removal" OR removals OR "durable carbon") (credits OR project OR registry)'
+    priority: 0.95
+    max_items: 45
+
+  - id: india_renewables_carbon
+    name: India renewable-energy carbon projects
+    type: google_news
+    query: 'India (solar OR wind OR hydro OR renewable) ("carbon credits" OR "carbon project" OR Verra OR "Gold Standard")'
+    priority: 0.80
+    max_items: 45
+
+  # ---------------------------------------------------------------------------
+  # Corporate / developer / transaction discovery
+  # Static query layer. A later Python patch will additionally generate targeted
+  # searches for actual developer names from news_entity_index.json.
+  # ---------------------------------------------------------------------------
+  - id: india_developer_activity
+    name: India carbon-project developers
+    type: google_news
+    query: 'India (developer OR company OR firm) ("carbon credit project" OR "carbon credits" OR "voluntary carbon market" OR Verra OR "Gold Standard")'
+    priority: 0.90
+    max_items: 60
+
+  - id: india_carbon_transactions
+    name: India carbon-credit transactions
+    type: google_news
+    query: 'India (buyer OR purchase OR offtake OR transaction OR sale OR acquisition OR investment) ("carbon credits" OR "carbon offsets")'
+    priority: 0.95
+    max_items: 55
+
+  - id: india_project_registration
+    name: India project registrations and verifications
+    type: google_news
+    query: 'India (registered OR registration OR validated OR validation OR verified OR verification) (Verra OR VCS OR "Gold Standard" OR "carbon project")'
+    priority: 0.95
+    max_items: 50
+
+  # ---------------------------------------------------------------------------
+  # Integrity / investigations / research
+  # ---------------------------------------------------------------------------
+  - id: india_vcm_integrity
+    name: India VCM integrity and investigations
+    type: google_news
+    query: 'India (Verra OR "Gold Standard" OR "carbon credits" OR offset) (integrity OR investigation OR criticism OR quality OR additionality OR overcrediting)'
+    priority: 0.95
+    max_items: 45
+
+  - id: india_carbon_research
+    name: India carbon-market research
+    type: google_news
+    query: 'India ("voluntary carbon market" OR "carbon credits" OR CCTS) (study OR research OR report OR analysis)'
+    priority: 0.85
+    max_items: 40
