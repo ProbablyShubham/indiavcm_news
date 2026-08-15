@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://indiavcm.com/schema/news-feed.schema.json",
+  "title": "India VCM Explorer news feed",
+  "type": "object",
+  "required": ["schema_version", "generated_at", "window_days", "items"],
+  "properties": {
+    "schema_version": {"const": 2},
+    "generated_at": {"type": ["string", "null"]},
+    "window_days": {"type": "integer"},
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "url", "source", "published", "geo"],
+        "properties": {
+          "id": {"type": "string"},
+          "event_id": {"type": "string"},
+          "title": {"type": "string"},
+          "url": {"type": "string"},
+          "source": {"type": "string"},
+          "published": {"type": "string"},
+          "summary": {"type": "string"},
+          "category": {"type": "string"},
+          "tags": {"type": "array", "items": {"type": "string"}},
+          "relevance_score": {"type": "number"},
+          "entities": {
+            "type": "object",
+            "properties": {
+              "projects": {"type": "array", "items": {"type": "string"}},
+              "developers": {"type": "array", "items": {"type": "string"}},
+              "methodologies": {"type": "array", "items": {"type": "string"}},
+              "registries": {"type": "array", "items": {"type": "string"}}
+            }
+          },
+          "geo": {
+            "type": "object",
+            "required": ["level", "method", "confidence"],
+            "properties": {
+              "level": {"enum": ["project", "district", "state", "national", "unresolved"]},
+              "project_id": {"type": ["string", "null"]},
+              "district": {"type": ["string", "null"]},
+              "state": {"type": ["string", "null"]},
+              "lat": {"type": ["number", "null"]},
+              "lon": {"type": ["number", "null"]},
+              "method": {"type": "string"},
+              "confidence": {"enum": ["high", "medium", "low"]}
+            }
+          }
+        }
+      }
+    }
+  }
+}

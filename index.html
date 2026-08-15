@@ -1,0 +1,8 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>India VCM News Feed</title><meta name="robots" content="noindex,follow">
+<style>body{font:15px/1.55 system-ui,sans-serif;max-width:900px;margin:48px auto;padding:0 20px;color:#273142;background:#f7f8fa}h1{font-size:28px}.card{background:#fff;border:1px solid #dde1e9;border-radius:14px;padding:20px;margin:16px 0}.muted{color:#657080}.good{color:#28785a}.bad{color:#a34e48}code{background:#eef1f5;padding:2px 5px;border-radius:5px}</style></head>
+<body><h1>India VCM News Feed</h1><p class="muted">Machine-readable market-intelligence feed for India VCM Explorer.</p>
+<div class="card" id="status">Loading feed status…</div>
+<div class="card"><b>Public files</b><p><a href="news.json">news.json</a> · <a href="news_meta.json">news_meta.json</a> · <a href="schema/news-feed.schema.json">schema</a></p><p class="muted">The feed contains headlines, publisher attribution, RSS snippets, timestamps, outbound URLs and derived market/geographic metadata. It does not republish article text.</p></div>
+<script>Promise.all([fetch('news.json?'+Date.now()).then(r=>r.json()),fetch('news_meta.json?'+Date.now()).then(r=>r.json())]).then(([f,m])=>{const ok=(m.sources||[]).filter(x=>x.ok).length;document.getElementById('status').innerHTML='<b>Last generated:</b> '+(f.generated_at||'not yet run')+'<br><b>Published items:</b> '+(f.items||[]).length+'<br><b>Mapped:</b> '+((m.counts||{}).mapped||0)+'<br><b>Sources responding:</b> <span class="'+(ok?'good':'bad')+'">'+ok+' / '+((m.sources||[]).length)+'</span>';}).catch(e=>document.getElementById('status').textContent='Feed not generated yet: '+e);</script></body></html>

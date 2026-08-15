@@ -1,0 +1,16 @@
+# Alias -> canonical spelling used by India VCM Explorer.
+# The live gazetteer downloaded from the dashboard is authoritative.
+district_aliases:
+  thirunelveli: Tirunelveli
+  ranga reddy: Rangareddy
+  rangareddy: Rangareddy
+  kutch: Kachchh
+  kachh: Kachchh
+  bombay suburban: Mumbai Suburban
+  bangalore urban: Bengaluru Urban
+  bangalore rural: Bengaluru Rural
+state_aliases:
+  orissa: Odisha
+  uttaranchal: Uttarakhand
+  pondicherry: Puducherry
+  jammu & kashmir: Jammu and Kashmir

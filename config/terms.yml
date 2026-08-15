@@ -1,0 +1,114 @@
+relevance:
+  threshold: 5.0
+  official_threshold: 3.5
+  positive:
+    "voluntary carbon market": 6
+    "carbon credit trading scheme": 7
+    "indian carbon market": 7
+    "carbon credits": 5
+    "carbon credit": 4
+    "carbon offset": 4
+    "carbon offsets": 4
+    "offset mechanism": 5
+    "verified carbon standard": 5
+    "gold standard": 4
+    "verra": 4
+    "article 6": 4
+    "corsia": 3
+    "core carbon principles": 3
+    "icvcm": 3
+    "vcmi": 3
+    "carbon registry": 4
+    "carbon project": 3
+    "carbon removal": 3
+    "biochar": 2
+    "cookstove": 2
+    "cookstoves": 2
+    "afforestation": 2
+    "reforestation": 2
+    "methane": 1.5
+    "biogas": 1.5
+    "redd+": 2
+    "methodology": 1.5
+    "issuance": 2
+    "retirement": 2
+  india:
+    "india": 4
+    "indian": 4
+    "bharat": 3
+  negative:
+    "carbon fibre": -8
+    "carbon fiber": -8
+    "carbon black": -8
+    "carbon steel": -8
+    "carbon monoxide": -8
+    "carbon dating": -8
+    "activated carbon": -5
+    "carbon paper": -5
+    "carbon copy": -5
+
+categories:
+  Policy & regulation:
+    - policy
+    - regulation
+    - government
+    - ministry
+    - ccts
+    - carbon credit trading scheme
+    - indian carbon market
+    - article 6
+    - gazette
+    - notification
+  Registry & standards:
+    - verra
+    - gold standard
+    - registry
+    - verified carbon standard
+    - icvcm
+    - vcmi
+    - core carbon principles
+    - corsia
+  Methodology:
+    - methodology
+    - methodologies
+    - protocol
+    - consultation
+  Projects:
+    - project
+    - registered
+    - registration
+    - validation
+    - verification
+  Issuance & retirement:
+    - issuance
+    - issued
+    - retirement
+    - retired
+    - credits issued
+  Finance & investment:
+    - investment
+    - finance
+    - fund
+    - acquisition
+    - buyer
+    - purchase
+    - offtake
+  Market & pricing:
+    - price
+    - pricing
+    - market
+    - trading
+    - demand
+    - supply
+  Carbon removals:
+    - carbon removal
+    - biochar
+    - direct air capture
+    - removals
+  Integrity & research:
+    - integrity
+    - research
+    - study
+    - report
+    - criticism
+    - investigation

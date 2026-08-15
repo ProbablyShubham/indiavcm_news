@@ -1,0 +1,11 @@
+# Optional publisher-level trust/priority multipliers.
+# These affect ranking, never factual truth claims.
+weights:
+  Reuters: 1.15
+  Bureau of Energy Efficiency: 1.20
+  Press Information Bureau: 1.15
+  Verra: 1.15
+  Gold Standard: 1.15
+  UNFCCC: 1.15
+  Mongabay: 1.00
+  Down To Earth: 1.00
