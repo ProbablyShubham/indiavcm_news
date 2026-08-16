@@ -1,456 +1,456 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-16T02:02:57Z",
+  "generated_at": "2026-08-16T13:19:47Z",
   "sources": [
     {
       "id": "india_vcm_core",
       "name": "India VCM core",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=%28%22voluntary+carbon+market%22+OR+%22voluntary+carbon+markets%22+OR+%22carbon+credits%22+OR+%22carbon+offset%22+OR+%22carbon+offsets%22%29+India&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 60,
+      "error": null,
+      "items": 30,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_carbon_projects",
       "name": "India carbon projects",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+%28%22carbon+project%22+OR+%22carbon+credit+project%22+OR+%22offset+project%22+OR+%22VCM+project%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 50,
+      "error": null,
+      "items": 16,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_registry_projects",
       "name": "India registry projects",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+%28Verra+OR+VCS+OR+%22Gold+Standard%22%29+%28project+OR+credits+OR+issuance+OR+methodology+OR+registry%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 50,
+      "error": null,
+      "items": 17,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_issuance_retirement",
       "name": "India issuance and retirement",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+%28%22carbon+credits%22+OR+Verra+OR+%22Gold+Standard%22%29+%28issuance+OR+issued+OR+retirement+OR+retired+OR+credits%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 45,
+      "error": null,
+      "items": 3,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_carbon_market_policy",
       "name": "Indian Carbon Market / CCTS",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=%28%22Indian+Carbon+Market%22+OR+%22Carbon+Credit+Trading+Scheme%22+OR+CCTS+OR+%22offset+mechanism%22%29+India&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 60,
+      "error": null,
+      "items": 8,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_ccts_methodologies",
       "name": "CCTS methodologies and consultations",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+CCTS+%28methodology+OR+methodologies+OR+consultation+OR+offset+OR+accreditation+OR+verification+OR+validation%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 48,
+      "error": null,
+      "items": 6,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_article6",
       "name": "India Article 6",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+%28%22Article+6%22+OR+%22Article+6.2%22+OR+%22Article+6.4%22+OR+JCM+OR+%22Joint+Crediting+Mechanism%22%29+carbon&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 50,
+      "error": null,
+      "items": 15,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_carbon_market_launch",
       "name": "India carbon-market implementation",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+%28%22carbon+market+portal%22+OR+%22carbon+trading%22+OR+%22carbon+exchange%22+OR+registry+OR+administrator%29+%28CCTS+OR+carbon%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 45,
+      "error": null,
+      "items": 1,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "bee_official",
       "name": "Bureau of Energy Efficiency / Indian Carbon Market",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Abeeindia.gov.in+%28%22Indian+Carbon+Market%22+OR+%22Carbon+Credit+Trading+Scheme%22+OR+CCTS+OR+%22offset+mechanism%22+OR+%22carbon+credit%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 45,
+      "error": null,
+      "items": 1,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "pib_official",
       "name": "Government of India / PIB",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Apib.gov.in+%28%22carbon+credit%22+OR+%22carbon+market%22+OR+CCTS+OR+%22Article+6%22+OR+%22offset+mechanism%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 45,
+      "error": null,
+      "items": 16,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "moefcc_official",
       "name": "MoEFCC",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Amoef.gov.in+%28%22carbon+market%22+OR+%22carbon+credit%22+OR+%22Article+6%22+OR+offset+OR+registry%29+India&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 9,
+      "error": null,
+      "items": 1,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "power_ministry_official",
       "name": "Ministry of Power",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
+      "url": "https://news.google.com/rss/search?q=site%3Apowermin.gov.in+%28%22Carbon+Credit+Trading+Scheme%22+OR+CCTS+OR+%22carbon+market%22+OR+%22carbon+credit%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 3,
+      "error": null,
       "items": 0,
-      "last_success": null
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "mnre_official",
       "name": "Ministry of New and Renewable Energy",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Amnre.gov.in+%28%22carbon+credit%22+OR+%22carbon+market%22+OR+carbon+offset+OR+CCTS%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 3,
+      "error": null,
+      "items": 2,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "verra_official",
       "name": "Verra",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Averra.org+%28India+OR+%22South+Asia%22%29+%28VCS+OR+carbon+OR+methodology+OR+project+OR+issuance+OR+registry%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 45,
+      "error": null,
+      "items": 9,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "verra_global_relevant",
       "name": "Verra global developments",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
+      "url": "https://news.google.com/rss/search?q=site%3Averra.org+%28VCS+OR+methodology+OR+registry+OR+issuance+OR+integrity%29+%28carbon+market+OR+credits%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 35,
+      "error": null,
       "items": 0,
-      "last_success": null
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "gold_standard_official",
       "name": "Gold Standard",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Agoldstandard.org+%28India+OR+%22South+Asia%22%29+%28carbon+OR+methodology+OR+project+OR+registry+OR+issuance%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 45,
+      "error": null,
+      "items": 10,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "gold_standard_global_relevant",
       "name": "Gold Standard global developments",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
+      "url": "https://news.google.com/rss/search?q=site%3Agoldstandard.org+%28methodology+OR+registry+OR+carbon+credits+OR+integrity+OR+project%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 35,
+      "error": null,
       "items": 0,
-      "last_success": null
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "unfccc_official",
       "name": "UNFCCC",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Aunfccc.int+India+%28%22Article+6%22+OR+%22carbon+market%22+OR+%22carbon+credits%22+OR+corresponding+adjustment%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 40,
+      "error": null,
+      "items": 1,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "integrity_standards",
       "name": "ICVCM / VCMI / integrity standards",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
+      "url": "https://news.google.com/rss/search?q=%28ICVCM+OR+VCMI+OR+%22Core+Carbon+Principles%22+OR+CCP%29+%28India+OR+%22carbon+market%22+OR+credits%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 40,
+      "error": null,
       "items": 0,
-      "last_success": null
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "carbon_pulse_india",
       "name": "Carbon Pulse — India",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Acarbon-pulse.com+India+%28%22carbon+market%22+OR+%22carbon+credit%22+OR+CCTS+OR+Verra+OR+%22Article+6%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 55,
+      "error": null,
+      "items": 7,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "carbon_pulse_projects",
       "name": "Carbon Pulse — projects and methodologies",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Acarbon-pulse.com+India+%28project+OR+methodology+OR+offset+OR+registry+OR+issuance%29+carbon&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 45,
+      "error": null,
+      "items": 4,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "carbon_herald_india",
       "name": "Carbon Herald — India",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Acarbonherald.com+India+%28%22carbon+credits%22+OR+%22carbon+market%22+OR+Verra+OR+offset%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 35,
+      "error": null,
+      "items": 7,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "business_standard_india",
       "name": "Business Standard",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Abusiness-standard.com+India+%28%22carbon+credits%22+OR+%22carbon+market%22+OR+CCTS+OR+%22Article+6%22+OR+Verra%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 55,
+      "error": null,
+      "items": 5,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "economic_times_india",
       "name": "Economic Times",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Aeconomictimes.indiatimes.com+India+%28%22carbon+credits%22+OR+%22carbon+market%22+OR+CCTS+OR+%22carbon+offset%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 50,
+      "error": null,
+      "items": 6,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "mint_india",
       "name": "Mint",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Alivemint.com+India+%28%22carbon+credits%22+OR+%22carbon+market%22+OR+CCTS+OR+%22carbon+offset%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 45,
+      "error": null,
+      "items": 5,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "moneycontrol_india",
       "name": "Moneycontrol",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Amoneycontrol.com+India+%28%22carbon+credits%22+OR+%22carbon+market%22+OR+CCTS+OR+%22carbon+offset%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 50,
+      "error": null,
+      "items": 2,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "businessline_india",
       "name": "BusinessLine",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Athehindubusinessline.com+India+%28%22carbon+credits%22+OR+%22carbon+market%22+OR+CCTS+OR+%22carbon+offset%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 45,
+      "error": null,
+      "items": 4,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "financial_express_india",
       "name": "Financial Express",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Afinancialexpress.com+India+%28%22carbon+credits%22+OR+%22carbon+market%22+OR+CCTS+OR+%22carbon+offset%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 40,
+      "error": null,
+      "items": 2,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "reuters_india",
       "name": "Reuters",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com+India+%28%22carbon+credits%22+OR+%22carbon+market%22+OR+%22carbon+offset%22+OR+CCTS+OR+%22Article+6%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 40,
+      "error": null,
+      "items": 27,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "mongabay_india",
       "name": "Mongabay India",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Aindia.mongabay.com+%28%22carbon+credits%22+OR+%22carbon+market%22+OR+offset+OR+Verra+OR+%22Gold+Standard%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 40,
+      "error": null,
+      "items": 6,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "downtoearth_india",
       "name": "Down To Earth",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Adowntoearth.org.in+India+%28%22carbon+credits%22+OR+%22carbon+market%22+OR+offset+OR+CCTS+OR+%22Article+6%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 40,
+      "error": null,
+      "items": 7,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "the_hindu_climate",
       "name": "The Hindu",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Athehindu.com+India+%28%22carbon+credits%22+OR+%22carbon+market%22+OR+CCTS+OR+%22carbon+offset%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 35,
+      "error": null,
+      "items": 5,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "indian_express_climate",
       "name": "Indian Express",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=site%3Aindianexpress.com+India+%28%22carbon+credits%22+OR+%22carbon+market%22+OR+CCTS+OR+%22carbon+offset%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 35,
+      "error": null,
+      "items": 12,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_nature_projects",
       "name": "India nature-based carbon projects",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+%28afforestation+OR+reforestation+OR+forestry+OR+agroforestry+OR+mangrove+OR+REDD+OR+%22nature+based%22%29+%28%22carbon+credit%22+OR+%22carbon+project%22+OR+offset%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 50,
+      "error": null,
+      "items": 11,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_household_projects",
       "name": "India household and community carbon projects",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+%28cookstove+OR+cookstoves+OR+biogas+OR+household+OR+community%29+%28%22carbon+credits%22+OR+%22carbon+project%22+OR+Verra+OR+%22Gold+Standard%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 50,
+      "error": null,
+      "items": 9,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_methane_agriculture",
       "name": "India methane and agriculture projects",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+%28methane+OR+rice+OR+livestock+OR+manure+OR+waste+OR+landfill%29+%28%22carbon+credits%22+OR+%22carbon+project%22+OR+offset%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 50,
+      "error": null,
+      "items": 9,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_biochar_removals",
       "name": "India biochar and removals",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+%28biochar+OR+%22carbon+removal%22+OR+removals+OR+%22durable+carbon%22%29+%28credits+OR+project+OR+registry%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 45,
+      "error": null,
+      "items": 9,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_renewables_carbon",
       "name": "India renewable-energy carbon projects",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+%28solar+OR+wind+OR+hydro+OR+renewable%29+%28%22carbon+credits%22+OR+%22carbon+project%22+OR+Verra+OR+%22Gold+Standard%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 45,
+      "error": null,
+      "items": 3,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_developer_activity",
       "name": "India carbon-project developers",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+%28developer+OR+company+OR+firm%29+%28%22carbon+credit+project%22+OR+%22carbon+credits%22+OR+%22voluntary+carbon+market%22+OR+Verra+OR+%22Gold+Standard%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 60,
+      "error": null,
+      "items": 15,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_carbon_transactions",
       "name": "India carbon-credit transactions",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+%28buyer+OR+purchase+OR+offtake+OR+transaction+OR+sale+OR+acquisition+OR+investment%29+%28%22carbon+credits%22+OR+%22carbon+offsets%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 55,
+      "error": null,
+      "items": 3,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_project_registration",
       "name": "India project registrations and verifications",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+%28registered+OR+registration+OR+validated+OR+validation+OR+verified+OR+verification%29+%28Verra+OR+VCS+OR+%22Gold+Standard%22+OR+%22carbon+project%22%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 50,
+      "error": null,
+      "items": 4,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_vcm_integrity",
       "name": "India VCM integrity and investigations",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
-      "items": 0,
-      "last_success": null
+      "url": "https://news.google.com/rss/search?q=India+%28Verra+OR+%22Gold+Standard%22+OR+%22carbon+credits%22+OR+offset%29+%28integrity+OR+investigation+OR+criticism+OR+quality+OR+additionality+OR+overcrediting%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 45,
+      "error": null,
+      "items": 7,
+      "last_success": "2026-08-16T13:19:47Z"
     },
     {
       "id": "india_carbon_research",
       "name": "India carbon-market research",
-      "url": null,
-      "ok": false,
-      "items_raw": 0,
-      "error": "<unknown>:2:252: not well-formed (invalid token)",
+      "url": "https://news.google.com/rss/search?q=India+%28%22voluntary+carbon+market%22+OR+%22carbon+credits%22+OR+CCTS%29+%28study+OR+research+OR+report+OR+analysis%29&hl=en-IN&gl=IN&ceid=IN:en",
+      "ok": true,
+      "items_raw": 40,
+      "error": null,
       "items": 0,
-      "last_success": null
+      "last_success": "2026-08-16T13:19:47Z"
     }
   ],
   "counts": {
-    "total": 70,
-    "mapped": 5,
+    "total": 71,
+    "mapped": 6,
     "project": 0,
-    "district": 1,
+    "district": 2,
     "state": 4,
-    "national": 57,
-    "unresolved": 8
+    "national": 58,
+    "unresolved": 7
   },
   "reference": {
     "base": "https://indiavcm.com/data/reference/",
     "errors": [],
-    "loaded_at": "2026-08-16T01:57:23Z"
+    "loaded_at": "2026-08-16T13:00:07Z"
   },
   "window_days": 90,
   "pipeline": {
-    "raw_items": 0,
-    "accepted_this_run": 0,
-    "stored_items": 141
+    "raw_items": 1853,
+    "accepted_this_run": 373,
+    "stored_items": 144
   }
 }
