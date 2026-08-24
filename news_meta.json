@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-24T02:16:47Z",
+  "generated_at": "2026-08-24T19:17:59Z",
   "sources": [
     {
       "id": "india_vcm_core",
@@ -10,7 +10,7 @@
       "items_raw": 60,
       "error": null,
       "items": 27,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_carbon_projects",
@@ -20,7 +20,7 @@
       "items_raw": 50,
       "error": null,
       "items": 14,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_registry_projects",
@@ -30,7 +30,7 @@
       "items_raw": 50,
       "error": null,
       "items": 17,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_issuance_retirement",
@@ -40,7 +40,7 @@
       "items_raw": 45,
       "error": null,
       "items": 0,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_carbon_market_policy",
@@ -49,18 +49,18 @@
       "ok": true,
       "items_raw": 60,
       "error": null,
-      "items": 8,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 7,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_ccts_methodologies",
       "name": "CCTS methodologies and consultations",
       "url": "https://news.google.com/rss/search?q=India+CCTS+%28methodology+OR+methodologies+OR+consultation+OR+offset+OR+accreditation+OR+verification+OR+validation%29&hl=en-IN&gl=IN&ceid=IN:en",
       "ok": true,
-      "items_raw": 47,
+      "items_raw": 49,
       "error": null,
-      "items": 7,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 8,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_article6",
@@ -70,7 +70,7 @@
       "items_raw": 50,
       "error": null,
       "items": 14,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_carbon_market_launch",
@@ -79,8 +79,8 @@
       "ok": true,
       "items_raw": 45,
       "error": null,
-      "items": 2,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 1,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "bee_official",
@@ -89,8 +89,8 @@
       "ok": true,
       "items_raw": 45,
       "error": null,
-      "items": 0,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 1,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "pib_official",
@@ -100,17 +100,17 @@
       "items_raw": 45,
       "error": null,
       "items": 17,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "moefcc_official",
       "name": "MoEFCC",
       "url": "https://news.google.com/rss/search?q=site%3Amoef.gov.in+%28%22carbon+market%22+OR+%22carbon+credit%22+OR+%22Article+6%22+OR+offset+OR+registry%29+India&hl=en-IN&gl=IN&ceid=IN:en",
       "ok": true,
-      "items_raw": 8,
+      "items_raw": 7,
       "error": null,
       "items": 0,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "power_ministry_official",
@@ -120,7 +120,7 @@
       "items_raw": 3,
       "error": null,
       "items": 0,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "mnre_official",
@@ -130,7 +130,7 @@
       "items_raw": 3,
       "error": null,
       "items": 2,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "verra_official",
@@ -140,7 +140,7 @@
       "items_raw": 45,
       "error": null,
       "items": 7,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "verra_global_relevant",
@@ -150,7 +150,7 @@
       "items_raw": 35,
       "error": null,
       "items": 0,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "gold_standard_official",
@@ -160,7 +160,7 @@
       "items_raw": 45,
       "error": null,
       "items": 10,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "gold_standard_global_relevant",
@@ -170,7 +170,7 @@
       "items_raw": 35,
       "error": null,
       "items": 0,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "unfccc_official",
@@ -180,7 +180,7 @@
       "items_raw": 40,
       "error": null,
       "items": 1,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "integrity_standards",
@@ -189,8 +189,8 @@
       "ok": true,
       "items_raw": 40,
       "error": null,
-      "items": 0,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 2,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "carbon_pulse_india",
@@ -199,8 +199,8 @@
       "ok": true,
       "items_raw": 55,
       "error": null,
-      "items": 5,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 4,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "carbon_pulse_projects",
@@ -209,8 +209,8 @@
       "ok": true,
       "items_raw": 45,
       "error": null,
-      "items": 3,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 2,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "carbon_herald_india",
@@ -219,8 +219,8 @@
       "ok": true,
       "items_raw": 35,
       "error": null,
-      "items": 8,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 9,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "business_standard_india",
@@ -229,8 +229,8 @@
       "ok": true,
       "items_raw": 55,
       "error": null,
-      "items": 5,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 6,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "economic_times_india",
@@ -240,7 +240,7 @@
       "items_raw": 50,
       "error": null,
       "items": 6,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "mint_india",
@@ -250,7 +250,7 @@
       "items_raw": 45,
       "error": null,
       "items": 4,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "moneycontrol_india",
@@ -260,7 +260,7 @@
       "items_raw": 50,
       "error": null,
       "items": 2,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "businessline_india",
@@ -270,7 +270,7 @@
       "items_raw": 45,
       "error": null,
       "items": 6,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "financial_express_india",
@@ -280,7 +280,7 @@
       "items_raw": 40,
       "error": null,
       "items": 2,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "reuters_india",
@@ -290,7 +290,7 @@
       "items_raw": 40,
       "error": null,
       "items": 22,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "mongabay_india",
@@ -300,7 +300,7 @@
       "items_raw": 40,
       "error": null,
       "items": 6,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "downtoearth_india",
@@ -310,7 +310,7 @@
       "items_raw": 40,
       "error": null,
       "items": 5,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "the_hindu_climate",
@@ -320,7 +320,7 @@
       "items_raw": 35,
       "error": null,
       "items": 7,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "indian_express_climate",
@@ -329,8 +329,8 @@
       "ok": true,
       "items_raw": 35,
       "error": null,
-      "items": 10,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 11,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_nature_projects",
@@ -339,8 +339,8 @@
       "ok": true,
       "items_raw": 50,
       "error": null,
-      "items": 12,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 11,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_household_projects",
@@ -349,8 +349,8 @@
       "ok": true,
       "items_raw": 50,
       "error": null,
-      "items": 10,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 9,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_methane_agriculture",
@@ -360,7 +360,7 @@
       "items_raw": 50,
       "error": null,
       "items": 11,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_biochar_removals",
@@ -369,18 +369,18 @@
       "ok": true,
       "items_raw": 45,
       "error": null,
-      "items": 13,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 8,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_renewables_carbon",
       "name": "India renewable-energy carbon projects",
       "url": "https://news.google.com/rss/search?q=India+%28solar+OR+wind+OR+hydro+OR+renewable%29+%28%22carbon+credits%22+OR+%22carbon+project%22+OR+Verra+OR+%22Gold+Standard%22%29&hl=en-IN&gl=IN&ceid=IN:en",
       "ok": true,
-      "items_raw": 45,
+      "items_raw": 30,
       "error": null,
-      "items": 3,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 1,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_developer_activity",
@@ -389,8 +389,8 @@
       "ok": true,
       "items_raw": 60,
       "error": null,
-      "items": 14,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 13,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_carbon_transactions",
@@ -400,7 +400,7 @@
       "items_raw": 55,
       "error": null,
       "items": 2,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_project_registration",
@@ -410,7 +410,7 @@
       "items_raw": 50,
       "error": null,
       "items": 3,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_vcm_integrity",
@@ -419,8 +419,8 @@
       "ok": true,
       "items_raw": 45,
       "error": null,
-      "items": 5,
-      "last_success": "2026-08-24T02:16:47Z"
+      "items": 8,
+      "last_success": "2026-08-24T19:17:59Z"
     },
     {
       "id": "india_carbon_research",
@@ -430,27 +430,27 @@
       "items_raw": 40,
       "error": null,
       "items": 0,
-      "last_success": "2026-08-24T02:16:47Z"
+      "last_success": "2026-08-24T19:17:59Z"
     }
   ],
   "counts": {
-    "total": 87,
+    "total": 88,
     "mapped": 7,
     "project": 0,
     "district": 2,
     "state": 5,
     "national": 71,
-    "unresolved": 9
+    "unresolved": 10
   },
   "reference": {
     "base": "https://indiavcm.com/data/reference/",
     "errors": [],
-    "loaded_at": "2026-08-24T01:57:17Z"
+    "loaded_at": "2026-08-24T18:58:51Z"
   },
   "window_days": 90,
   "pipeline": {
-    "raw_items": 1851,
-    "accepted_this_run": 356,
-    "stored_items": 159
+    "raw_items": 1837,
+    "accepted_this_run": 358,
+    "stored_items": 152
   }
 }
