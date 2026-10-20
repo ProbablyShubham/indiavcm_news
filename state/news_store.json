@@ -1,7 +1,201 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-18T11:16:13Z",
+  "generated_at": "2026-10-20T21:49:40Z",
   "items": [
+    {
+      "id": "f08cab0e683c203ea4d0d586",
+      "title": "Chandigarh News: Punjab News, Latest Chandigarh News, Chandigarh News Today & Headlines - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQlE5VEFRWUNieGtNQU9tcFNqUXFQS3hLa3F3RGFCb2xaR2tfYnlWNlZ4Z05GVjFVeDFscHRxVGxNZGwzVkk3VjN4a0FteGFqOFJsUTc2ckphMF9uNXJ5OFJSTjB5RVdyQ21xQUhFTElwNjl0M2NReWVFeTl3b0FrRGs2QQ?oc=5",
+      "source": "The Indian Express",
+      "published": "2026-10-20T13:35:00Z",
+      "summary": "Chandigarh News: Punjab News, Latest Chandigarh News, Chandigarh News Today & Headlines The Indian Express",
+      "collected_at": "2026-10-20T21:36:37Z",
+      "_collector_source_id": "indian_express_climate",
+      "_collector_source_name": "Indian Express",
+      "_priority": 0.9,
+      "_official": false,
+      "relevance_score": 5.4,
+      "relevance_reasons": [
+        "India geography",
+        "indian"
+      ],
+      "category": "Other",
+      "tags": [],
+      "entities": {
+        "projects": [],
+        "developers": [],
+        "methodologies": [],
+        "registries": []
+      },
+      "geo": {
+        "level": "district",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "lat": 30.7306,
+        "lon": 76.7816,
+        "method": "gazetteer_exact",
+        "confidence": "high"
+      },
+      "event_id": "evt_ede3a320423d"
+    },
+    {
+      "id": "ba16c6665e4a97141b52db3a",
+      "title": "Verra Issues First Rice Carbon Credits in India Under New Methodology - CarbonCredits.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkVoTWpaVmFWREVwalR5ME1aU29ROGdCeHFFR1U2TnNpUFZYdE9fRHpub1o5NmpHZUp5Nm1NNHlMbnVldVBVRVJOdUM4SGJwNFdveDFyRi1sOFcwZzBGWGk3ZmpZRDI5WnRDaTFnVzZXN1RJYVhZVGRSblNyUzJfLVVXNEpEbW1GdzBRTVNMNEhqc20xZngtaFVoNFM?oc=5",
+      "source": "CarbonCredits.com",
+      "published": "2026-10-19T16:54:11Z",
+      "summary": "Verra Issues First Rice Carbon Credits in India Under New Methodology CarbonCredits.com",
+      "collected_at": "2026-10-20T21:36:20Z",
+      "_collector_source_id": "india_vcm_core",
+      "_collector_source_name": "India VCM core",
+      "_priority": 1.05,
+      "_official": false,
+      "relevance_score": 15.23,
+      "relevance_reasons": [
+        "carbon credits",
+        "india",
+        "methodology",
+        "verra"
+      ],
+      "category": "Registry & standards",
+      "tags": [
+        "methodology",
+        "verra"
+      ],
+      "entities": {
+        "projects": [],
+        "developers": [],
+        "methodologies": [],
+        "registries": [
+          "Verra"
+        ]
+      },
+      "geo": {
+        "level": "national",
+        "district": null,
+        "state": null,
+        "lat": null,
+        "lon": null,
+        "method": "india_only",
+        "confidence": "medium"
+      },
+      "event_id": "evt_39a14f7ace5d"
+    },
+    {
+      "id": "da54a215f464f90fe995650d",
+      "title": "India to start carbon credit trading after four months: Power minister Manohar Lal - ET Government",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZkdid1JrOUFzTHhYVGQ5QnVzaUR5OUJmalJXWXJ4OGd1d3Nab3NLN0VKZmQ4b0hIendXNzFfQUt0ZjByZy11T2hldjBvbkR1ODhiYzJ5YThMWVNqVnM5a3lXWGhodEVuX29EQTJ5M1AwOWZoblNTTE85cUtFR1QzT2JVcXA5SDRVUm81V0ktMGZZU3ZYMkthWktvUlhpZ2xJOGd0ZFNZSE9DVS1pUFl4VEMxUUpEOWdBRFdZa0hMMlQ3UV8xZWpqMl80aGdINzN5bGdYblZqY3bSAdMBQVVfeXFMTXJ5WGYzYTFkcGw0WjVVUDZpcjkxem1qS1J4a2hUak1DdmMyck9fOVFzTE5wSmkxdUpLVGdBOVRjbGZxSmZia185SHI3TkFqWnAzdFhOYjZIWnBBTktScW5rMGVXc3U5MW1ZTUdCS0IyMTBEZXloUUQ0R0ZKR3FRMVdzbUtUYTVPekRYWVp3Z0REb2k1ejg2SkFJMnNSdG9QU0JhTmE3STZSVC1WYjhPMnZUZVdkek00SFhrTnZSekZ0d0hOcU5pU2JCZ0pQSWxfUUFZVQ?oc=5",
+      "source": "ET Government",
+      "published": "2026-10-18T15:29:40Z",
+      "summary": "India to start carbon credit trading after four months: Power minister Manohar Lal ET Government",
+      "collected_at": "2026-10-20T21:36:32Z",
+      "_collector_source_id": "economic_times_india",
+      "_collector_source_name": "Economic Times",
+      "_priority": 1.0,
+      "_official": false,
+      "relevance_score": 8.0,
+      "relevance_reasons": [
+        "carbon credit",
+        "india"
+      ],
+      "category": "Policy & regulation",
+      "tags": [
+        "government",
+        "trading"
+      ],
+      "entities": {
+        "projects": [],
+        "developers": [],
+        "methodologies": [],
+        "registries": []
+      },
+      "geo": {
+        "level": "national",
+        "district": null,
+        "state": null,
+        "lat": null,
+        "lon": null,
+        "method": "india_only",
+        "confidence": "medium"
+      },
+      "other_sources": [
+        "ET EnergyWorld"
+      ],
+      "event_id": "evt_ed8cbab3bd23"
+    },
+    {
+      "id": "3197e9e9ce05af2251f336a1",
+      "title": "Mahadji Scindia to Make in India: How Shivpuri's defence plant revives a 250-year tradition of military inno.. - ET Government",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORklsUndyLUIyT1ptWWQydkVmdVJKQnNPTi1oZFRfejJJbnp3eGNwQVlLM2hhR3JXSUh4WHkwWDRfaFd5X1pQR1NFWndObnNYekwxQmRPd1E0OTNVSTZ3T3FySFhjdTVpd3NYdjkwYWNmX3V3anloaV9zUWRVRWxTWnlaUXVtR0J1ZWowSzB6SnZ4TVVxZlg5NEdyVTI2Ty1DT3R4MUJBODhqekVfMkJxYUVtTktzTWFPZXgyUWVwZlZqM2ZoNHktUkMzdkFfcVptMmU5LWJDQmwtSTJOUEdzbW10TjRlRi0tWENxQ0JVZHNsUElFOU9OT3Rn0gH0AUFVX3lxTFB4TEJZeTdhd3JaTm5yRVR0dGMybEFUS3R4V2hheGp2eVBZUFlNM1otR0lyN2VUcXE4Q0RUR1Z3dThhVlJURFpBVWlxM3RhajZBV1psck5Vd1pTWkFhYVdIcWY4S2lTN3Myb0VEekp5NmE2dE9QN2pLV18zLTFrcExzS2ludTdmcVNvN1BNSFdsNVBIdFlmeF9lcUdZWTlQYThIVDhyUS1pdXctR2dZc2JSNVBpR0JVWFRhLUZlSmRvOFhwQkNZYnUwbFg4YkZMZGpfRE5rWGdXRWxaUlJlSklKNTFlczBoLUNjY3lJSUI4bVdha3c?oc=5",
+      "source": "ET Government",
+      "published": "2026-10-18T00:00:47Z",
+      "summary": "Mahadji Scindia to Make in India: How Shivpuri's defence plant revives a 250-year tradition of military inno.. ET Government",
+      "collected_at": "2026-10-20T21:36:32Z",
+      "_collector_source_id": "economic_times_india",
+      "_collector_source_name": "Economic Times",
+      "_priority": 1.0,
+      "_official": false,
+      "relevance_score": 6.0,
+      "relevance_reasons": [
+        "India geography",
+        "india"
+      ],
+      "category": "Policy & regulation",
+      "tags": [
+        "government"
+      ],
+      "entities": {
+        "projects": [],
+        "developers": [],
+        "methodologies": [],
+        "registries": []
+      },
+      "geo": {
+        "level": "district",
+        "district": "Shivpuri",
+        "state": "Madhya Pradesh",
+        "lat": 25.3766,
+        "lon": 77.8283,
+        "method": "gazetteer_exact",
+        "confidence": "high"
+      },
+      "event_id": "evt_151e568de285"
+    },
+    {
+      "id": "2d6f63c036299f68371cd7fb",
+      "title": "Operational Guidelines for Renewable Consumption Obligation Compliance Mechanism - Bureau of Energy Efficiency (BEE) India",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDY2a1Q3LVNWMVNWN1FHN1pfSlJEM0hzQUwxTmFiTEk2TzVGdGMzMFZKb2FvbzNTZlEtZzlGNnNLLXpuZGRfUGI5TmxiaUJPa2VlS0N0WW93N0YyNldqbGVoYmNIWVVralFVM0FNWHNIQk1kWk50bmtfaHZ6M3ZoejRuMVRkek5UYzBfLWVxeEU?oc=5",
+      "source": "Bureau of Energy Efficiency (BEE) India",
+      "published": "2026-10-16T12:01:40Z",
+      "summary": "Operational Guidelines for Renewable Consumption Obligation Compliance Mechanism Bureau of Energy Efficiency (BEE) India",
+      "collected_at": "2026-10-20T21:36:24Z",
+      "_collector_source_id": "bee_official",
+      "_collector_source_name": "Bureau of Energy Efficiency / Indian Carbon Market",
+      "_priority": 1.5,
+      "_official": true,
+      "relevance_score": 6.0,
+      "relevance_reasons": [
+        "india"
+      ],
+      "category": "Other",
+      "tags": [],
+      "entities": {
+        "projects": [],
+        "developers": [],
+        "methodologies": [],
+        "registries": []
+      },
+      "geo": {
+        "level": "national",
+        "district": null,
+        "state": null,
+        "lat": null,
+        "lon": null,
+        "method": "india_only",
+        "confidence": "medium"
+      },
+      "event_id": "evt_ecdab55d173a"
+    },
     {
       "id": "ddfeda1280bec2af9b1f9414",
       "title": "Agrasar Bharat: Fueling India’s 20 year growth trajectory - ET Government",
@@ -47,7 +241,7 @@
       "source": "The Indian Express",
       "published": "2026-10-15T14:09:21Z",
       "summary": "UPSC Key: India-US Trade Deal, Facial Recognition Technology and Kigali Amendment The Indian Express",
-      "collected_at": "2026-10-18T11:03:23Z",
+      "collected_at": "2026-10-20T21:36:37Z",
       "_collector_source_id": "indian_express_climate",
       "_collector_source_name": "Indian Express",
       "_priority": 0.9,
@@ -83,7 +277,7 @@
       "source": "Greater Kashmir",
       "published": "2026-10-15T01:00:54Z",
       "summary": "Kashmir’s farmers eye carbon credits, but local gains remain uncertain Greater Kashmir",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -118,7 +312,7 @@
       "source": "The Times of India",
       "published": "2026-10-14T13:41:00Z",
       "summary": "Karnataka eyes blue carbon credits to meet 5m-tonne target The Times of India",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:21Z",
       "_collector_source_id": "india_issuance_retirement",
       "_collector_source_name": "India issuance and retirement",
       "_priority": 0.95,
@@ -155,7 +349,7 @@
       "source": "Carbon Herald",
       "published": "2026-10-14T08:49:19Z",
       "summary": "Carbon Credits For Indian Farmers: New Resources Explain Opportunities and Safeguards Carbon Herald",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -189,9 +383,9 @@
       "title": "AMU Department of Political Science Holds Expert Session on Indian Carbon Market - India Education Diary",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ3hVdVZFTXRxN2pENXhlbkxVdV93aEFGeEhLQ3RlRHcxSTFLMFUwaGZaQnlRdnRXQUtGZ0taSmUyUENpQ2FzeWFuWTloZG8ybUZTVkVUYVFqUFBIc1JuNGJYVEdDVG9iU3VIeHhCSFNjT01oSWlJTE9nV1FHS3NwZS0zQWlVMGpON3Q1TmExSlA2LWVCdUhEQVpnbG8xcERHLVdVT2pMMHdZdk94YUdDTXJR?oc=5",
       "source": "India Education Diary",
-      "published": "2026-10-10T07:00:00Z",
+      "published": "2026-10-12T08:58:43Z",
       "summary": "AMU Department of Political Science Holds Expert Session on Indian Carbon Market India Education Diary",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -267,7 +461,7 @@
       "source": "ET Government",
       "published": "2026-10-09T09:02:11Z",
       "summary": "BRICS 2026: Scaling nature-based carbon credits to empower farmers worldwide ET Government",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -452,7 +646,7 @@
       "source": "Carbon Herald",
       "published": "2026-10-07T07:00:00Z",
       "summary": "Opinion: Why Biochar Could Play A Critical Role in Building India’s Carbon Economy Carbon Herald",
-      "collected_at": "2026-10-18T11:03:18Z",
+      "collected_at": "2026-10-20T21:36:31Z",
       "_collector_source_id": "carbon_herald_india",
       "_collector_source_name": "Carbon Herald — India",
       "_priority": 0.95,
@@ -484,13 +678,52 @@
       "event_id": "evt_79408679a011"
     },
     {
+      "id": "ef1ed46f903c6d52c0428483",
+      "title": "Bureau of Energy Efficiency (BEE), Ministry of Power, Government of India - Bureau of Energy Efficiency (BEE) India",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wZlZ6bkcyRFdZR3hlT3kyRFg1czdEUm01bzlDLWNDQXZUQnNjMkVYM2FxMWIzUE1DRzNnTU9vVU92ZC0xZFNiUFI5RmMwN05hbVZ2bFVqTXZzSi1DUTJnWXNfTFE1UVRnNVdoTnZOWWgxUnlZX0dHQTVyWQ?oc=5",
+      "source": "Bureau of Energy Efficiency (BEE) India",
+      "published": "2026-10-05T07:00:00Z",
+      "summary": "Bureau of Energy Efficiency (BEE), Ministry of Power, Government of India Bureau of Energy Efficiency (BEE) India",
+      "collected_at": "2026-10-20T21:36:24Z",
+      "_collector_source_id": "bee_official",
+      "_collector_source_name": "Bureau of Energy Efficiency / Indian Carbon Market",
+      "_priority": 1.5,
+      "_official": true,
+      "relevance_score": 6.0,
+      "relevance_reasons": [
+        "india"
+      ],
+      "category": "Policy & regulation",
+      "tags": [
+        "government",
+        "ministry"
+      ],
+      "entities": {
+        "projects": [],
+        "developers": [],
+        "methodologies": [],
+        "registries": []
+      },
+      "geo": {
+        "level": "national",
+        "district": null,
+        "state": null,
+        "lat": null,
+        "lon": null,
+        "method": "india_only",
+        "confidence": "medium"
+      },
+      "other_sources": [],
+      "event_id": "evt_bdc57368a1c6"
+    },
+    {
       "id": "63bab38adbab96e569346639",
       "title": "India and Japan Launch Operational Manual for the Joint Crediting Mechanism - Press Information Bureau",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvX1lmbzNtYnFaN3RMdUpPMGpidkhiWHdmSnJ0RlNqQ1dRa0UwTUJYcmdMQmVFbHhkZG9RQUIwcmplRy0yakxBN1U3YkQwemc3NmNiNlZHem0xU0wwT2FnRU5vLVVqV3Bf?oc=5",
       "source": "Press Information Bureau",
       "published": "2026-10-05T07:00:00Z",
       "summary": "India and Japan Launch Operational Manual for the Joint Crediting Mechanism Press Information Bureau",
-      "collected_at": "2026-10-18T11:03:11Z",
+      "collected_at": "2026-10-20T21:36:23Z",
       "_collector_source_id": "india_article6",
       "_collector_source_name": "India Article 6",
       "_priority": 1.265,
@@ -599,12 +832,12 @@
       "source": "Carbon Pulse",
       "published": "2026-09-30T11:41:14Z",
       "summary": "Bamboo project deal signed in Northeast India, climate tech firm eyes 5 mln carbon credits Carbon Pulse",
-      "collected_at": "2026-10-05T14:36:23Z",
-      "_collector_source_id": "carbon_pulse_india",
-      "_collector_source_name": "Carbon Pulse — India",
-      "_priority": 1.2,
+      "collected_at": "2026-10-20T21:36:30Z",
+      "_collector_source_id": "carbon_pulse_projects",
+      "_collector_source_name": "Carbon Pulse — projects and methodologies",
+      "_priority": 1.1,
       "_official": false,
-      "relevance_score": 10.8,
+      "relevance_score": 9.9,
       "relevance_reasons": [
         "carbon credits",
         "india"
@@ -676,7 +909,7 @@
       "source": "The Economic Times",
       "published": "2026-09-30T07:00:00Z",
       "summary": "Carbon credits need more than a nod The Economic Times",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -854,7 +1087,7 @@
       "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
       "published": "2026-09-25T11:13:53Z",
       "summary": "Workshop: Modelling insights and design choices for a credible Indian carbon market Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -1188,7 +1421,7 @@
       "source": "The Indian Express",
       "published": "2026-09-24T07:00:00Z",
       "summary": "UPSC Essentials | Daily subject-wise quiz : Economy MCQs on Carbon Credits Trading Scheme, new GDP series and more (Week 181) The Indian Express",
-      "collected_at": "2026-10-18T11:03:23Z",
+      "collected_at": "2026-10-20T21:36:37Z",
       "_collector_source_id": "indian_express_climate",
       "_collector_source_name": "Indian Express",
       "_priority": 0.9,
@@ -1662,7 +1895,7 @@
       "source": "IMARC Group",
       "published": "2026-09-23T11:49:26Z",
       "summary": "India Carbon Credit Ecosystem Hits USD 405B via CCTS Rollout IMARC Group",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -1736,7 +1969,7 @@
       "source": "AgroSpectrum India",
       "published": "2026-09-23T07:00:00Z",
       "summary": "India’s farm carbon market reaches smallholders as Punjab, Haryana farmers receive first digital payments AgroSpectrum India",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -1881,7 +2114,7 @@
       "source": "CarbonCredits.com",
       "published": "2026-09-21T07:00:00Z",
       "summary": "GSK Signs 8-Year Carbon Removal Deal With Varaha to Scale Regenerative Farming in India CarbonCredits.com",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:21Z",
       "_collector_source_id": "india_issuance_retirement",
       "_collector_source_name": "India issuance and retirement",
       "_priority": 0.95,
@@ -1919,7 +2152,7 @@
       "source": "Reuters",
       "published": "2026-09-21T07:00:00Z",
       "summary": "Carbon credits vs sheep farms: The Growing Divide in Rural New Zealand Reuters",
-      "collected_at": "2026-10-18T11:03:21Z",
+      "collected_at": "2026-10-20T21:36:34Z",
       "_collector_source_id": "reuters_india",
       "_collector_source_name": "Reuters",
       "_priority": 1.3224999999999998,
@@ -2065,7 +2298,7 @@
       "source": "INSIGHTS IAS",
       "published": "2026-09-18T07:00:00Z",
       "summary": "India’s First Soil Carbon Payments: Farmers, Carbon Credits & Benefits INSIGHTS IAS",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -2175,7 +2408,7 @@
       "source": "The New Indian Express",
       "published": "2026-09-17T07:00:00Z",
       "summary": "Centre to pay Rs 2.9 crore to 2,550 Punjab, Haryana farmers who earned carbon credits The New Indian Express",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -2212,7 +2445,7 @@
       "source": "The Indian Express",
       "published": "2026-09-17T07:00:00Z",
       "summary": "Rs 2.5 crore as carbon credits: In a first, farmers reap harvest of good practices The Indian Express",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -2286,7 +2519,7 @@
       "source": "DD India",
       "published": "2026-09-17T07:00:00Z",
       "summary": "India makes first soil carbon payments to farmers in Punjab, Haryana DD India",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:21Z",
       "_collector_source_id": "india_issuance_retirement",
       "_collector_source_name": "India issuance and retirement",
       "_priority": 0.95,
@@ -2868,12 +3101,12 @@
       "source": "CarbonCredits.com",
       "published": "2026-09-16T07:00:00Z",
       "summary": "Google Targets Rice Methane Emissions in India with 1 Million Carbon Credits CarbonCredits.com",
-      "collected_at": "2026-10-11T21:57:42Z",
-      "_collector_source_id": "india_methane_agriculture",
-      "_collector_source_name": "India methane and agriculture projects",
-      "_priority": 0.9,
+      "collected_at": "2026-10-20T21:36:20Z",
+      "_collector_source_id": "india_vcm_core",
+      "_collector_source_name": "India VCM core",
+      "_priority": 1.05,
       "_official": false,
-      "relevance_score": 9.45,
+      "relevance_score": 11.03,
       "relevance_reasons": [
         "carbon credits",
         "india",
@@ -2905,7 +3138,7 @@
       "source": "Business Standard",
       "published": "2026-09-16T07:00:00Z",
       "summary": "Delhi govt invites bids to monetise carbon credits from green projects Business Standard",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -3302,7 +3535,7 @@
       "source": "Carbon Pulse",
       "published": "2026-09-15T07:00:00Z",
       "summary": "India risks missing EU carbon demand as Article 6 infrastructure remains incomplete Carbon Pulse",
-      "collected_at": "2026-10-18T11:03:17Z",
+      "collected_at": "2026-10-20T21:36:29Z",
       "_collector_source_id": "carbon_pulse_india",
       "_collector_source_name": "Carbon Pulse — India",
       "_priority": 1.2,
@@ -3557,7 +3790,7 @@
       "source": "Business Standard",
       "published": "2026-09-14T07:00:00Z",
       "summary": "Agri-tech startup Grow Indigo pays farmers for selling carbon credits Business Standard",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -3775,7 +4008,7 @@
       "source": "Carbon Herald",
       "published": "2026-09-11T07:00:00Z",
       "summary": "Google To Buy 1M Rice Methane Carbon Credits From India’s Mitti Labs Carbon Herald",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:21Z",
       "_collector_source_id": "india_issuance_retirement",
       "_collector_source_name": "India issuance and retirement",
       "_priority": 0.95,
@@ -3964,7 +4197,7 @@
       "source": "The Times of India",
       "published": "2026-09-10T07:00:00Z",
       "summary": "IIT Roorkee, UP govt tie-up to give boost to carbon credits prog The Times of India",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -4000,7 +4233,7 @@
       "source": "Pluang",
       "published": "2026-09-10T07:00:00Z",
       "summary": "Google to buy 1M carbon credits from Indian sta... Pluang",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -4036,7 +4269,7 @@
       "source": "TechCrunch",
       "published": "2026-09-10T07:00:00Z",
       "summary": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs TechCrunch",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:38Z",
       "_collector_source_id": "india_methane_agriculture",
       "_collector_source_name": "India methane and agriculture projects",
       "_priority": 0.9,
@@ -4073,7 +4306,7 @@
       "source": "Mezha.net",
       "published": "2026-09-10T07:00:00Z",
       "summary": "Google Will Buy One Million Carbon Credits From Indian Rice Farms by 2030 Mezha.net",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:38Z",
       "_collector_source_id": "india_methane_agriculture",
       "_collector_source_name": "India methane and agriculture projects",
       "_priority": 0.9,
@@ -4109,7 +4342,7 @@
       "source": "AgroSpectrum India",
       "published": "2026-09-09T12:03:15Z",
       "summary": "UK recognises India’s carbon credit scheme under CBAM, easing dual carbon charges for exporters AgroSpectrum India",
-      "collected_at": "2026-09-13T04:46:38Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -4181,7 +4414,7 @@
       "source": "Jagran Josh",
       "published": "2026-09-09T07:00:00Z",
       "summary": "UK Recognises India’s Carbon Credit Trading Scheme (CCTS) Under CBAM: What It Means for Indian Exporters? Jagran Josh",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -4223,7 +4456,7 @@
       "source": "Manorama Yearbook",
       "published": "2026-09-09T07:00:00Z",
       "summary": "UK recognises India’s Carbon Credit Trading Scheme Manorama Yearbook",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -4347,7 +4580,7 @@
       "source": "Business Standard",
       "published": "2026-09-09T07:00:00Z",
       "summary": "India's carbon credit scheme gets UK nod: What it means for exporters Business Standard",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -4383,7 +4616,7 @@
       "source": "green carbon",
       "published": "2026-09-09T07:00:00Z",
       "summary": "【New Expansion into India, Southeast Asia, and the U.S.】Green Carbon Signs MOU with U.S.-Based Carbon Market Advisory Firm ATOA Carbon US LLC to Expand Industrial Biochar Carbon Removal (BCR) Projects green carbon",
-      "collected_at": "2026-10-18T11:03:24Z",
+      "collected_at": "2026-10-20T21:36:37Z",
       "_collector_source_id": "india_nature_projects",
       "_collector_source_name": "India nature-based carbon projects",
       "_priority": 0.9,
@@ -4653,7 +4886,7 @@
       "source": "Swarajya",
       "published": "2026-09-08T07:00:00Z",
       "summary": "UK Recognises India’s Carbon Credit Trading Scheme For CBAM Relief, Easing Potential Tax Burden On Exporters Swarajya",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -4693,7 +4926,7 @@
       "source": "INSIGHTS IAS",
       "published": "2026-09-08T07:00:00Z",
       "summary": "India’s Carbon Credit Trading Scheme (CCTS) INSIGHTS IAS",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -4734,7 +4967,7 @@
       "source": "ANI News",
       "published": "2026-09-08T07:00:00Z",
       "summary": "UK includes India's carbon credit trading scheme in list of qualifying carbon pricing mechanisms under CBAM ANI News",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -4775,7 +5008,7 @@
       "source": "NDTV Profit",
       "published": "2026-09-08T07:00:00Z",
       "summary": "India's Carbon Credit Trading Scheme Gets UK Recognition Under CBAM: Sources NDTV Profit",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -4856,7 +5089,7 @@
       "source": "The Hindu",
       "published": "2026-09-08T07:00:00Z",
       "summary": "U.K. recognises India's carbon credit scheme under its carbon tax mechanism: official The Hindu",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -4932,12 +5165,12 @@
       "source": "The Times of India",
       "published": "2026-09-08T07:00:00Z",
       "summary": "India's carbon credit scheme gets UK recognition under its carbon tax mechanism The Times of India",
-      "collected_at": "2026-10-18T11:03:11Z",
-      "_collector_source_id": "india_ccts_methodologies",
-      "_collector_source_name": "CCTS methodologies and consultations",
-      "_priority": 1.1,
+      "collected_at": "2026-10-20T21:36:22Z",
+      "_collector_source_id": "india_carbon_market_policy",
+      "_collector_source_name": "Indian Carbon Market / CCTS",
+      "_priority": 1.15,
       "_official": false,
-      "relevance_score": 8.8,
+      "relevance_score": 9.2,
       "relevance_reasons": [
         "carbon credit",
         "india"
@@ -4968,12 +5201,12 @@
       "source": "Livemint",
       "published": "2026-09-08T07:00:00Z",
       "summary": "UK recognises India’s carbon credit scheme under CBAM, easing tax burden for exporters Livemint",
-      "collected_at": "2026-10-18T11:03:11Z",
-      "_collector_source_id": "india_ccts_methodologies",
-      "_collector_source_name": "CCTS methodologies and consultations",
-      "_priority": 1.1,
+      "collected_at": "2026-10-20T21:36:22Z",
+      "_collector_source_id": "india_carbon_market_policy",
+      "_collector_source_name": "Indian Carbon Market / CCTS",
+      "_priority": 1.15,
       "_official": false,
-      "relevance_score": 8.8,
+      "relevance_score": 9.2,
       "relevance_reasons": [
         "carbon credit",
         "india"
@@ -5156,42 +5389,6 @@
       ]
     },
     {
-      "id": "7985dc20ef57e634c02c88d6",
-      "title": "The carbon credit case for nano urea - Ideas for India",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2RrSldCbjdlVU10aGlhc190UzlJZkpSTDBuTWxhaTNqN3gwZmRfY3d6ZTJvN2EzclRkRW9lZU9DMU41bzlxS1NKSkNZRTJ0X0VxYkNjNkhMWFYwSFllNnZLWF81WkVranJITWs1aVJvYnVaVW1qZDFCOVR4UDktZGV0ZFM?oc=5",
-      "source": "Ideas for India",
-      "published": "2026-09-07T07:00:00Z",
-      "summary": "The carbon credit case for nano urea Ideas for India",
-      "collected_at": "2026-10-17T04:24:19Z",
-      "_collector_source_id": "india_ccts_methodologies",
-      "_collector_source_name": "CCTS methodologies and consultations",
-      "_priority": 1.1,
-      "_official": false,
-      "relevance_score": 8.8,
-      "relevance_reasons": [
-        "carbon credit",
-        "india"
-      ],
-      "category": "Other",
-      "tags": [],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_19fe9e38365f"
-    },
-    {
       "id": "e89cfe4d21a2c171353de51b",
       "title": "RECs vs. carbon credits: Which fits your climate action plan? - Tata Power",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUZHZlJteVM2czl2ZTh1MW1odEprZXNmUkk1OEE4R3pzMXNUcm9WVkVjRnhHNHUxWWxFeVczeS01QWc4UjdnRXNwS2RsNXBydUlCbG42OVNpZEpuZHZ5N1hqZVNGdnVTcFc2dkcxVGYzcldLRVZ4VGppMnVFenRTLXVKSDJiRlJ2QXdzV0R1Y1h6Z0ZB?oc=5",
@@ -5227,13 +5424,49 @@
       "event_id": "evt_d92a747deb35"
     },
     {
+      "id": "7985dc20ef57e634c02c88d6",
+      "title": "The carbon credit case for nano urea - Ideas for India",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2RrSldCbjdlVU10aGlhc190UzlJZkpSTDBuTWxhaTNqN3gwZmRfY3d6ZTJvN2EzclRkRW9lZU9DMU41bzlxS1NKSkNZRTJ0X0VxYkNjNkhMWFYwSFllNnZLWF81WkVranJITWs1aVJvYnVaVW1qZDFCOVR4UDktZGV0ZFM?oc=5",
+      "source": "Ideas for India",
+      "published": "2026-09-07T03:34:30Z",
+      "summary": "The carbon credit case for nano urea Ideas for India",
+      "collected_at": "2026-10-20T21:36:22Z",
+      "_collector_source_id": "india_carbon_market_policy",
+      "_collector_source_name": "Indian Carbon Market / CCTS",
+      "_priority": 1.15,
+      "_official": false,
+      "relevance_score": 9.2,
+      "relevance_reasons": [
+        "carbon credit",
+        "india"
+      ],
+      "category": "Other",
+      "tags": [],
+      "entities": {
+        "projects": [],
+        "developers": [],
+        "methodologies": [],
+        "registries": []
+      },
+      "geo": {
+        "level": "national",
+        "district": null,
+        "state": null,
+        "lat": null,
+        "lon": null,
+        "method": "india_only",
+        "confidence": "medium"
+      },
+      "event_id": "evt_19fe9e38365f"
+    },
+    {
       "id": "406a59a814aa221b66a23260",
       "title": "Supercritical Partners With Ground Up To Expand India Biochar Network - Carbon Herald",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb19MSmJURGxZZ1ViZ1dCWVR0QWhBMEdmd2p4dzBUbnM5MU9YWHdNMDNjdnlaY1VVMGc2WVZHMEhoU0psYmxFelVqa085ZjE3ZUxONVpLSmxCMVRCR215eGw3RW1iUDJPaFZQLTAzS0ZEQ0JkbGViQk1tczg3b0p0ZUlpcy0xN01kcmkyR3dzQzBlZ3dHcnBPc3F0VQ?oc=5",
       "source": "Carbon Herald",
       "published": "2026-09-04T07:00:00Z",
       "summary": "Supercritical Partners With Ground Up To Expand India Biochar Network Carbon Herald",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:39Z",
       "_collector_source_id": "india_biochar_removals",
       "_collector_source_name": "India biochar and removals",
       "_priority": 0.95,
@@ -5310,7 +5543,7 @@
       "source": "ESG News.earth",
       "published": "2026-09-02T07:00:00Z",
       "summary": "Green Hydrogen and Solar Lead Japan-India Carbon Credits ESG News.earth",
-      "collected_at": "2026-10-18T11:03:11Z",
+      "collected_at": "2026-10-20T21:36:23Z",
       "_collector_source_id": "india_article6",
       "_collector_source_name": "India Article 6",
       "_priority": 1.1,
@@ -5346,7 +5579,7 @@
       "source": "CarbonCredits.com",
       "published": "2026-09-01T07:00:00Z",
       "summary": "Japan Opens New Carbon Credit Channel for India as JCM Enters Article 6 Market Era CarbonCredits.com",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -5386,7 +5619,7 @@
       "source": "BusinessLine",
       "published": "2026-08-31T07:00:00Z",
       "summary": "Japan opens carbon credit opportunity for Indian green projects BusinessLine",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -5422,7 +5655,7 @@
       "source": "Earth Journalism Network",
       "published": "2026-08-31T07:00:00Z",
       "summary": "Cookstoves and Carbon Credits: Inside Bengaluru's Carbon Market Boom Earth Journalism Network",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -5499,7 +5732,7 @@
       "source": "Indian Council Of Agricultural Research",
       "published": "2026-08-30T07:00:00Z",
       "summary": "ICAR-IISS, Bhopal and Core CarbonX Solutions Pvt. Ltd. Organize National Workshop on Agricultural Voluntary Carbon Market Projects | ICAR Indian Council Of Agricultural Research",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -5641,46 +5874,6 @@
       "event_id": "evt_833c99661deb"
     },
     {
-      "id": "9b1bc45915468a0f2bfae570",
-      "title": "CDR accelerator pre-purchases biochar removals from India project - Carbon Pulse",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sNV9BMjNJNHJpcVpEeDNXZklVNnBsRFFhak93ckVidWdSLVNKTUY2eTVNSlgwUkl1Yk5QNGpIQTd5M2dYNUtR?oc=5",
-      "source": "Carbon Pulse",
-      "published": "2026-08-26T07:00:00Z",
-      "summary": "CDR accelerator pre-purchases biochar removals from India project Carbon Pulse",
-      "collected_at": "2026-10-18T11:03:17Z",
-      "_collector_source_id": "carbon_pulse_india",
-      "_collector_source_name": "Carbon Pulse — India",
-      "_priority": 1.2,
-      "_official": false,
-      "relevance_score": 7.2,
-      "relevance_reasons": [
-        "biochar",
-        "india"
-      ],
-      "category": "Carbon removals",
-      "tags": [
-        "biochar",
-        "project",
-        "removals"
-      ],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_1985c76f37db"
-    },
-    {
       "id": "3cc261e2545703fa6f11f673",
       "title": "In Gujarat, invasive tree helps tech giants buy carbon credits - Scroll.in",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1JHWjNxSjFVd2F4QzE4VmpFZ3pRN25tUUVNOHVQcThJenE3aTdoSWtiSVZzRjFqd1loSW5EU0V4VEhnNDlrTFE0SE5vNUxrd1dZNktrd3VIOHN6MjRQWFFtUWlNVGVlZTRfR0U1amREOEFES3VFZzQ5YWJfaFpMRlBoenRHd1ZJMkRQS3lCLTRkTHVrZUJhWUZYN0wtQdIBowFBVV95cUxNVVB6VW1GbGRhZnRCMUlZSUJVd2Z0b2dNYnRqS2FraUk3WkJkeWhldHlHbmhJRVRRZ1I5ZkdBVWd4SEJLVmdvRzhfeU9WSEU5cU9IQ1Q4YjJMZGZPV3ZiWGdEYkpYdVF0d2RzLWdRajIyNjFnR3VqSVByU0ZpNmRGS0d3am5uWFNOdkJqQ0dYTGhjM18yVFhvOUNIZ2l2SzJVeFpn?oc=5",
@@ -5717,13 +5910,53 @@
       "event_id": "evt_e02e300a6210"
     },
     {
+      "id": "9b1bc45915468a0f2bfae570",
+      "title": "CDR accelerator pre-purchases biochar removals from India project - Carbon Pulse",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sNV9BMjNJNHJpcVpEeDNXZklVNnBsRFFhak93ckVidWdSLVNKTUY2eTVNSlgwUkl1Yk5QNGpIQTd5M2dYNUtR?oc=5",
+      "source": "Carbon Pulse",
+      "published": "2026-08-26T07:00:00Z",
+      "summary": "CDR accelerator pre-purchases biochar removals from India project Carbon Pulse",
+      "collected_at": "2026-10-20T21:36:30Z",
+      "_collector_source_id": "carbon_pulse_projects",
+      "_collector_source_name": "Carbon Pulse — projects and methodologies",
+      "_priority": 1.1,
+      "_official": false,
+      "relevance_score": 6.6,
+      "relevance_reasons": [
+        "biochar",
+        "india"
+      ],
+      "category": "Carbon removals",
+      "tags": [
+        "biochar",
+        "project",
+        "removals"
+      ],
+      "entities": {
+        "projects": [],
+        "developers": [],
+        "methodologies": [],
+        "registries": []
+      },
+      "geo": {
+        "level": "national",
+        "district": null,
+        "state": null,
+        "lat": null,
+        "lon": null,
+        "method": "india_only",
+        "confidence": "medium"
+      },
+      "event_id": "evt_1985c76f37db"
+    },
+    {
       "id": "b06f4ba3958ce477db6d13d4",
       "title": "ICAR pilot explores biochar at Ponda’s Keri & Priol - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1RXRDdSZ3pTWkJZaHF4eWdZZVpMdTJYc2IweUQ0MEhzanVpRGRvLUVqQUZTN0M3VHc0THV2RkVWWWlsMUlJR1ZXMXhqbXpjd2p0Q1huaDNkSVhJTWk1Q19NQ2lOancyS1VKU3MwcUZVTjVKN29BVktaMndJYXl2enRkaG9MZG5SeFlaXzh6TzZNLXhXSTdhN1VPNEs3QkE3b3d2WEhmVXkxcGx4ZGFiQjhiUmIydDUtbUZj0gHAAUFVX3lxTE5oV1Vqc0tvcnBPUUhEWS1OejhWVGk4ZG13dGtoWVk3SFFTbXFmZUM2VGVycWk3d0ZGZlhRd0pRYWV2blhHckdfWGxoLXBEQi1YeGFPRTBuWEcxdmN4MlB5Vk1GU0hJUUprSzBGZzV2dGhwV3dZRXpEVlJjc1daODVkVm5wWnN2NVNVVnBsR0tiM0ZPdnplNWc2Und2T09EMFVLTWZjRHBhQklXaW10OEc1SzRISlZnM1I3Z0VWT0haWQ?oc=5",
       "source": "The Times of India",
       "published": "2026-08-26T07:00:00Z",
       "summary": "ICAR pilot explores biochar at Ponda’s Keri & Priol The Times of India",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:39Z",
       "_collector_source_id": "india_biochar_removals",
       "_collector_source_name": "India biochar and removals",
       "_priority": 0.95,
@@ -5792,17 +6025,17 @@
     },
     {
       "id": "1071390b1c9e24709867cffc",
-      "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - www.pib.gov.in",
+      "title": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments - Press Information Bureau",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ050b0JtUUtORWo4YVFfeEZrNGxKeUVqYlJJSnNPUjRXRHFwZzlwZ3VQZjVLZGxydTlzemZmV3daRGExeG9rTXlQLThvMkg4cUZEWFphSjNvTy16d0ZXaGZXdG9HMUwzQy1KNS1pQkt4dmdJQzJsTmh5cUpYMjd0dWFrT1JNRHRZTjhzVHVDdDhWcUZ0VzUxTmR5cndqLUVW?oc=5",
-      "source": "www.pib.gov.in",
+      "source": "Press Information Bureau",
       "published": "2026-08-25T22:11:44Z",
-      "summary": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments www.pib.gov.in",
-      "collected_at": "2026-10-18T11:03:13Z",
+      "summary": "Union Power Minister Inaugurates Prakriti 2026 & Launches Indian Carbon Market Portal, Reinforces India’s Climate Commitments Press Information Bureau",
+      "collected_at": "2026-10-20T21:36:25Z",
       "_collector_source_id": "pib_official",
       "_collector_source_name": "Government of India / PIB",
-      "_priority": 1.2,
+      "_priority": 1.38,
       "_official": true,
-      "relevance_score": 18.0,
+      "relevance_score": 20.7,
       "relevance_reasons": [
         "india",
         "indian",
@@ -5829,6 +6062,7 @@
         "confidence": "medium"
       },
       "other_sources": [
+        "www.pib.gov.in",
         "AL Circle"
       ],
       "event_id": "evt_21d46b69e38e"
@@ -5876,7 +6110,7 @@
       "source": "AgroSpectrum India",
       "published": "2026-08-23T05:28:58Z",
       "summary": "Carbon opportunity in sugarcane, CBG and biochar AgroSpectrum India",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:39Z",
       "_collector_source_id": "india_biochar_removals",
       "_collector_source_name": "India biochar and removals",
       "_priority": 0.95,
@@ -6111,7 +6345,7 @@
       "source": "The Better India",
       "published": "2026-08-18T07:00:00Z",
       "summary": "4 Startups Helping Indian Farmers Earn From Carbon, Not Just Crops The Better India",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -6297,7 +6531,7 @@
       "source": "The Times of India",
       "published": "2026-08-14T07:00:00Z",
       "summary": "Tripura hosts first meeting on climate finance and carbon trading The Times of India",
-      "collected_at": "2026-10-18T11:03:12Z",
+      "collected_at": "2026-10-20T21:36:24Z",
       "_collector_source_id": "india_carbon_market_launch",
       "_collector_source_name": "India carbon-market implementation",
       "_priority": 1.0,
@@ -6449,7 +6683,7 @@
       "source": "LPU",
       "published": "2026-08-11T07:00:00Z",
       "summary": "Carbon Credits for Compost? How Microbes Can Put ₹ in Farmers’ Pockets LPU",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -6484,7 +6718,7 @@
       "source": "Indian Chemical News",
       "published": "2026-08-07T10:11:40Z",
       "summary": "What India’s carbon market means for chemical manufacturers: Manish Dabkara, President, Carbon Markets Association of India Indian Chemical News",
-      "collected_at": "2026-10-11T21:57:26Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -6520,9 +6754,9 @@
       "title": "India’s new $27 bln bioenergy scheme could unlock Article 6 carbon credits - Carbon Pulse",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MM3NydWJ6b1FTa0ZHVm9qLVVNNlFUZ25ieVNlLUFMbEJhaTZkaHJZUzUyOHc3bEtQS2JDSzN0MGxWRDByTlBv?oc=5",
       "source": "Carbon Pulse",
-      "published": "2026-08-07T09:04:37Z",
+      "published": "2026-08-07T07:00:00Z",
       "summary": "India’s new $27 bln bioenergy scheme could unlock Article 6 carbon credits Carbon Pulse",
-      "collected_at": "2026-08-29T07:04:01Z",
+      "collected_at": "2026-10-20T21:36:29Z",
       "_collector_source_id": "carbon_pulse_india",
       "_collector_source_name": "Carbon Pulse — India",
       "_priority": 1.2,
@@ -6561,7 +6795,7 @@
       "source": "Bureau of Energy Efficiency (BEE India)",
       "published": "2026-08-07T07:00:00Z",
       "summary": "Untitled Bureau of Energy Efficiency (BEE India)",
-      "collected_at": "2026-10-18T11:03:12Z",
+      "collected_at": "2026-10-20T21:36:24Z",
       "_collector_source_id": "bee_official",
       "_collector_source_name": "Bureau of Energy Efficiency / Indian Carbon Market",
       "_priority": 1.5,
@@ -6635,7 +6869,7 @@
       "source": "The London School of Economics and Political Science",
       "published": "2026-08-06T07:00:00Z",
       "summary": "Decarbonising the aluminium sector in India: implications of the Carbon Credit Trading Scheme The London School of Economics and Political Science",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -6828,7 +7062,7 @@
       "source": "Manufacturing Today India",
       "published": "2026-08-05T07:00:00Z",
       "summary": "Attero opens World’s only UN-verified E-Waste carbon credits Manufacturing Today India",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:38Z",
       "_collector_source_id": "india_methane_agriculture",
       "_collector_source_name": "India methane and agriculture projects",
       "_priority": 0.9,
@@ -6932,42 +7166,6 @@
       "event_id": "evt_fb2d089931fe"
     },
     {
-      "id": "16d48f5e1b3ed28fc990baf0",
-      "title": "Attero Launches UNFCCC-Certified Carbon Credits - Entrepreneur India",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRC0yWjlYd010Q291M1BqTFhwOUM5elFLWG54TC0zN2E3T3ZWdUhGMG92R3VxZ19UdlVDbXNRSlZXT3Z0Rmk3TkYzb1UwdkVDSkxXOGRUZG1WbEttbU9ESUdBTHR0cS1OUks1VG9Ca1NwanVYQXZXUC1qMElKWTc0QmV6dFJ3bklYN3k5ejlsQVBGUG9qU2E2cTJrMUZEUG50QlE?oc=5",
-      "source": "Entrepreneur India",
-      "published": "2026-08-04T07:00:00Z",
-      "summary": "Attero Launches UNFCCC-Certified Carbon Credits Entrepreneur India",
-      "collected_at": "2026-09-26T21:09:45Z",
-      "_collector_source_id": "india_vcm_core",
-      "_collector_source_name": "India VCM core",
-      "_priority": 1.05,
-      "_official": false,
-      "relevance_score": 9.45,
-      "relevance_reasons": [
-        "carbon credits",
-        "india"
-      ],
-      "category": "Other",
-      "tags": [],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_d2abf97b390d"
-    },
-    {
       "id": "4547d9ad1370bad4994d508a",
       "title": "Attero Opens Global Access to World's Only UNFCCC Verified E Waste Carbon Credits - Energetica India Magazine",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRnF3WU12T3NOY3BHT21YUlBKTlVTc093NjBWSUVNTTFpMVlSbUlRaUhuM3BUWmtBQldiNncyRklpWnFEN1R1VElwbXR2SHdrd0pQUWY1OE8wLVAyOVpnV1N0dC1scGswMnZRYXpZTHZXWms2cXotTV9hZ2hXbmFCZHJXdnVRbWpqcWJwRUNXQ05yU0JnU3VwN0xuQW9tSTMxOVVVcTVfOC05dU1fOElGX1ZXZEJPS1l5c0E?oc=5",
@@ -7002,6 +7200,42 @@
         "confidence": "medium"
       },
       "event_id": "evt_308349926377"
+    },
+    {
+      "id": "16d48f5e1b3ed28fc990baf0",
+      "title": "Attero Launches UNFCCC-Certified Carbon Credits - Entrepreneur India",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRC0yWjlYd010Q291M1BqTFhwOUM5elFLWG54TC0zN2E3T3ZWdUhGMG92R3VxZ19UdlVDbXNRSlZXT3Z0Rmk3TkYzb1UwdkVDSkxXOGRUZG1WbEttbU9ESUdBTHR0cS1OUks1VG9Ca1NwanVYQXZXUC1qMElKWTc0QmV6dFJ3bklYN3k5ejlsQVBGUG9qU2E2cTJrMUZEUG50QlE?oc=5",
+      "source": "Entrepreneur India",
+      "published": "2026-08-04T07:00:00Z",
+      "summary": "Attero Launches UNFCCC-Certified Carbon Credits Entrepreneur India",
+      "collected_at": "2026-10-20T21:36:38Z",
+      "_collector_source_id": "india_methane_agriculture",
+      "_collector_source_name": "India methane and agriculture projects",
+      "_priority": 0.9,
+      "_official": false,
+      "relevance_score": 8.1,
+      "relevance_reasons": [
+        "carbon credits",
+        "india"
+      ],
+      "category": "Other",
+      "tags": [],
+      "entities": {
+        "projects": [],
+        "developers": [],
+        "methodologies": [],
+        "registries": []
+      },
+      "geo": {
+        "level": "national",
+        "district": null,
+        "state": null,
+        "lat": null,
+        "lon": null,
+        "method": "india_only",
+        "confidence": "medium"
+      },
+      "event_id": "evt_d2abf97b390d"
     },
     {
       "id": "d0d6585a8af9e9b01bfe9011",
@@ -7041,7 +7275,10 @@
         "method": "india_only",
         "confidence": "medium"
       },
-      "event_id": "evt_d22463c3a2c2"
+      "event_id": "evt_d22463c3a2c2",
+      "other_sources": [
+        "TheWire.in"
+      ]
     },
     {
       "id": "e0fb6c7695e0c4f5f4b72c7d",
@@ -7050,7 +7287,7 @@
       "source": "Livemint",
       "published": "2026-08-02T07:00:00Z",
       "summary": "India Inc weighs carbon credits as net-zero goals demand faster action Livemint",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -7157,7 +7394,8 @@
         "method": "india_only",
         "confidence": "medium"
       },
-      "event_id": "evt_b8c5f9cc33cb"
+      "event_id": "evt_b8c5f9cc33cb",
+      "other_sources": []
     },
     {
       "id": "97b48044f7c79a8d8e824df4",
@@ -7166,7 +7404,7 @@
       "source": "Verra",
       "published": "2026-07-30T07:00:00Z",
       "summary": "India Carbon Summit 2026 Verra",
-      "collected_at": "2026-10-18T11:03:14Z",
+      "collected_at": "2026-10-20T21:36:26Z",
       "_collector_source_id": "verra_official",
       "_collector_source_name": "Verra",
       "_priority": 1.38,
@@ -7283,7 +7521,7 @@
       "source": "The New Indian Express",
       "published": "2026-07-29T07:00:00Z",
       "summary": "Himachal unveils India’s first pine needle biochar plant to curb forest fires, boost carbon credits The New Indian Express",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -7323,7 +7561,7 @@
       "source": "IMPRI Impact and Policy Research Institute",
       "published": "2026-07-28T07:00:00Z",
       "summary": "Carbon Credit Trading Scheme (CCTS) 2023: Assessing India’s First Mandatory Carbon Market and Its Path to Net-Zero IMPRI Impact and Policy Research Institute",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -7367,7 +7605,7 @@
       "source": "BusinessLine",
       "published": "2026-07-28T07:00:00Z",
       "summary": "Eternal’s Greening India comes up with agro-forestry carbon credit model to tackle CO2 emissions BusinessLine",
-      "collected_at": "2026-10-18T11:03:24Z",
+      "collected_at": "2026-10-20T21:36:37Z",
       "_collector_source_id": "india_nature_projects",
       "_collector_source_name": "India nature-based carbon projects",
       "_priority": 0.9,
@@ -7403,7 +7641,7 @@
       "source": "Live Law",
       "published": "2026-07-28T07:00:00Z",
       "summary": "Carbon Credits, Not Carbon Prices: Why CCTS May Not Clear CBAM's Article 9 Bar Live Law",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -7587,13 +7825,51 @@
       "event_id": "evt_44661e289702"
     },
     {
+      "id": "1352997172d3e5887c4a97d1",
+      "title": "GOVERNMENT OF INDIA MINISTRY OF POWER RAJYA SABHA UNSTARRED QUESTION NO.943 ANSWERED ON 27.07.2026 DELAY IN SMART METER INSTALLA - Ministry Of Power",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS1BDNDEwckQ4QWdjYjJYazJ6TnB5TkpIRHBubXpwWFBDYVlyX1c4NHlkbl9TVzZMZGhTRkUxNmpLMGwwMlkzUjQtMjF2dUx2NlBEd1RKTnQwZmJpM1hLN2g1dTlYenRtR1ZjOFA2MHFOXzVOajhDWlJVVjBMcDloMnl2U0s2QVBhR21B?oc=5",
+      "source": "Ministry Of Power",
+      "published": "2026-07-27T07:00:00Z",
+      "summary": "GOVERNMENT OF INDIA MINISTRY OF POWER RAJYA SABHA UNSTARRED QUESTION NO.943 ANSWERED ON 27.07.2026 DELAY IN SMART METER INSTALLA Ministry Of Power",
+      "collected_at": "2026-10-20T21:36:25Z",
+      "_collector_source_id": "power_ministry_official",
+      "_collector_source_name": "Ministry of Power",
+      "_priority": 1.15,
+      "_official": true,
+      "relevance_score": 4.6,
+      "relevance_reasons": [
+        "india"
+      ],
+      "category": "Policy & regulation",
+      "tags": [
+        "government",
+        "ministry"
+      ],
+      "entities": {
+        "projects": [],
+        "developers": [],
+        "methodologies": [],
+        "registries": []
+      },
+      "geo": {
+        "level": "national",
+        "district": null,
+        "state": null,
+        "lat": null,
+        "lon": null,
+        "method": "india_only",
+        "confidence": "medium"
+      },
+      "event_id": "evt_043d6e52953b"
+    },
+    {
       "id": "ad37fa867978415531d68022",
       "title": "What are carbon credits? Kochi Water Metro to unlock green revenue stream in new Kosher Climate deal - The Week",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWkhQYWNadjl1azZzaEJrQU84NnZKMW5SVkN1ME12UGtSNm1fU0kwNEVYRGpwQUpEQzllTGp0OXRzcHpnMjN6c3hHeVZ6bUNVcGZzSlg2aXZLc29SS0JPYk5lRUlVaTZIUFBSM1B1dDlxSjZic2ppeGp2ZXpPRm5rd25HdnZ2RzJlSzFfZU5mZUt2VDNYbXgtZjJUZmdYenJoQzJaYUttNHBiM3hhOHBqZm1xSEwxeHlMSTREQ1JCQllVYl9ta2RESWRjc09McVkwUkRBZTZCajMtZzg2cGZMT2tqWkRka3fSAewBQVVfeXFMTUhHSkxRclJ4OUllbzZTV1VicWR4bDdsY0VMeE5IYXFwUlhBbHFFMXVIc0dBb0lOeGtNWTZHUXBMV0lQYTRHeDJzaGFReXhGbGxiN1ZHUWdIaXp2cXRRdlFPakZHNG9Ca0Jsam9tV2l5SHBVVEhKSThBbmxVam5YWFNZXzhzUmk0Ul9KY2htUk1ESE5DNzZjdFMzZ3BCS3JZUTRYWkdqYXZUelVNSW1aZnp5MmphajhQdHhhVU9xVTE3Z3RVVWw0R20zN1RscHNYUHNRazQ5dlVUdFBFbUszWmZkaTJUbmF0ZDd3U1c?oc=5",
       "source": "The Week",
       "published": "2026-07-24T07:00:00Z",
       "summary": "What are carbon credits? Kochi Water Metro to unlock green revenue stream in new Kosher Climate deal The Week",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -7628,7 +7904,7 @@
       "source": "Renewable Watch",
       "published": "2026-07-23T07:00:00Z",
       "summary": "3rd Edition of CBG in India I Project Economics, Financing Landscape and Role of Carbon Credits Renewable Watch",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -7702,7 +7978,7 @@
       "source": "The New Indian Express",
       "published": "2026-07-23T07:00:00Z",
       "summary": "Kochi Water Metro signs deal to launch carbon credit validation initiative The New Indian Express",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -7740,7 +8016,7 @@
       "source": "Ministry of Environment, Forest and Climate Change",
       "published": "2026-07-22T08:37:48Z",
       "summary": "1 Rule of Implementation of the Joint Crediting Mechanism between the Government of the Republic of India and the Government Ministry of Environment, Forest and Climate Change",
-      "collected_at": "2026-10-18T11:03:13Z",
+      "collected_at": "2026-10-20T21:36:25Z",
       "_collector_source_id": "moefcc_official",
       "_collector_source_name": "MoEFCC",
       "_priority": 1.2,
@@ -7778,7 +8054,7 @@
       "source": "Univest",
       "published": "2026-07-22T07:00:00Z",
       "summary": "3 Stocks Benefiting From Carbon Credit Trading Scheme Univest",
-      "collected_at": "2026-10-07T13:21:59Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -7890,7 +8166,7 @@
       "source": "Indian Printer & Publisher",
       "published": "2026-07-18T07:00:00Z",
       "summary": "Katsura Roller India’s expansion into newspaper press rollers Indian Printer & Publisher",
-      "collected_at": "2026-10-16T04:30:53Z",
+      "collected_at": "2026-10-20T21:36:42Z",
       "_collector_source_id": "india_vcm_integrity",
       "_collector_source_name": "India VCM integrity and investigations",
       "_priority": 0.95,
@@ -7961,7 +8237,7 @@
       "source": "The Indian Express",
       "published": "2026-07-17T07:00:00Z",
       "summary": "Pune civic body plans carbon credit policy, eyes Rs 20 crore annual revenue The Indian Express",
-      "collected_at": "2026-10-18T11:03:23Z",
+      "collected_at": "2026-10-20T21:36:37Z",
       "_collector_source_id": "indian_express_climate",
       "_collector_source_name": "Indian Express",
       "_priority": 0.9,
@@ -8000,7 +8276,7 @@
       "source": "India Development Review",
       "published": "2026-07-17T07:00:00Z",
       "summary": "India’s carbon credit market needs evidence before it scales India Development Review",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:21Z",
       "_collector_source_id": "india_issuance_retirement",
       "_collector_source_name": "India issuance and retirement",
       "_priority": 0.95,
@@ -8073,7 +8349,7 @@
       "source": "Bureau of Energy Efficiency (BEE) India",
       "published": "2026-07-17T02:10:35Z",
       "summary": "Comments on Identified Methodologies in Offset Mechanism under CCTS Bureau of Energy Efficiency (BEE) India",
-      "collected_at": "2026-10-18T11:03:12Z",
+      "collected_at": "2026-10-20T21:36:24Z",
       "_collector_source_id": "bee_official",
       "_collector_source_name": "Bureau of Energy Efficiency / Indian Carbon Market",
       "_priority": 1.5,
@@ -8112,7 +8388,7 @@
       "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
       "published": "2026-07-14T07:00:00Z",
       "summary": "The road ahead for India’s Carbon Credit Trading Scheme Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -8196,7 +8472,7 @@
       "source": "AL Circle",
       "published": "2026-07-13T07:00:00Z",
       "summary": "Three years in: Has India's Carbon Credit Trading Scheme delivered for the aluminium industry? AL Circle",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -8236,7 +8512,7 @@
       "source": "Business Today",
       "published": "2026-07-07T07:00:00Z",
       "summary": "Can the new carbon credit scheme clean up India’s steel sector? Business Today",
-      "collected_at": "2026-10-07T13:21:59Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -8272,7 +8548,7 @@
       "source": "Indian Institute of Management Bangalore | IIMB",
       "published": "2026-07-03T08:19:19Z",
       "summary": "CDPG Participates in BEE’s Capacity Building Workshop Compliance and Offset Mechanism under Indian Carbon Markets – Digest – CDPG Indian Institute of Management Bangalore | IIMB",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -8345,7 +8621,7 @@
       "source": "Asia Society",
       "published": "2026-07-01T07:00:00Z",
       "summary": "New Report | Carbon Credit Trading Scheme & Energy Transition Finance Asia Society",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -8387,7 +8663,7 @@
       "source": "The Tribune",
       "published": "2026-07-01T07:00:00Z",
       "summary": "India’s 1st biochar plant to boost jobs, carbon credits in Himachal: CM Sukhvinder Singh Sukhu The Tribune",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:39Z",
       "_collector_source_id": "india_biochar_removals",
       "_collector_source_name": "India biochar and removals",
       "_priority": 0.95,
@@ -8426,7 +8702,7 @@
       "source": "The Times of India",
       "published": "2026-06-30T07:00:00Z",
       "summary": "India’s 1st biochar plant to earn Himachal 28,800 carbon credits: CM Sukhvinder Singh Sukhu The Times of India",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -8496,6 +8772,41 @@
         "confidence": "low"
       },
       "event_id": "evt_0d36638300dd"
+    },
+    {
+      "id": "b4db61b4e4872a1655cceb74",
+      "title": "Bureau of Energy Efficiency (BEE) invites registrations for the National Examination 2026 for Energy Managers, Energy Auditors and Energy Auditors (Building) | Bureau of Energy Efficiency - Bureau of Energy Efficiency (BEE) India",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYjV3aGxOSlpXUWRHQ1Z4dHpBU2tCRzJ4Vkt3YWZ4c2VxQkhaTUhXSk5IeE9GaExuREJrYlhwcWhOWEhlRVlxWFNnam9jcWJXRXlvRVZlb2hGUnBpWS1CUWZLbEw5MWw5V3E0YnVTakVCZVVoRm1zS1FHSnF1Zzd4ZGdUYw?oc=5",
+      "source": "Bureau of Energy Efficiency (BEE) India",
+      "published": "2026-06-30T07:00:00Z",
+      "summary": "Bureau of Energy Efficiency (BEE) invites registrations for the National Examination 2026 for Energy Managers, Energy Auditors and Energy Auditors (Building) | Bureau of Energy Efficiency Bureau of Energy Efficiency (BEE) India",
+      "collected_at": "2026-10-20T21:36:24Z",
+      "_collector_source_id": "bee_official",
+      "_collector_source_name": "Bureau of Energy Efficiency / Indian Carbon Market",
+      "_priority": 1.5,
+      "_official": true,
+      "relevance_score": 6.0,
+      "relevance_reasons": [
+        "india"
+      ],
+      "category": "Other",
+      "tags": [],
+      "entities": {
+        "projects": [],
+        "developers": [],
+        "methodologies": [],
+        "registries": []
+      },
+      "geo": {
+        "level": "national",
+        "district": null,
+        "state": null,
+        "lat": null,
+        "lon": null,
+        "method": "india_only",
+        "confidence": "medium"
+      },
+      "event_id": "evt_aed60453f4d3"
     },
     {
       "id": "0822f90585d27aedf71c5035",
@@ -8618,7 +8929,7 @@
       "source": "The Better India",
       "published": "2026-06-27T07:00:00Z",
       "summary": "From CowGPT To Carbon Credits: 4 Indian Innovations Helping Farmers Cut Risk & Earn More The Better India",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -8732,7 +9043,7 @@
       "source": "The Better India",
       "published": "2026-06-25T07:00:00Z",
       "summary": "Bengaluru's ‘RenewCred’ Is Helping Indian Farmers Turn Crop Waste Into A New Source Of Income The Better India",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -8768,7 +9079,7 @@
       "source": "Business Today",
       "published": "2026-06-25T07:00:00Z",
       "summary": "Why venture capital remains cautious about India's carbon credit ecosystem Business Today",
-      "collected_at": "2026-10-18T11:03:12Z",
+      "collected_at": "2026-10-20T21:36:24Z",
       "_collector_source_id": "india_carbon_market_launch",
       "_collector_source_name": "India carbon-market implementation",
       "_priority": 1.0,
@@ -8953,7 +9264,7 @@
       "source": "The New Indian Express",
       "published": "2026-06-17T07:00:00Z",
       "summary": "India–Japan climate cooperation advances as LNG emissions report raises regional concerns The New Indian Express",
-      "collected_at": "2026-10-18T11:03:11Z",
+      "collected_at": "2026-10-20T21:36:23Z",
       "_collector_source_id": "india_article6",
       "_collector_source_name": "India Article 6",
       "_priority": 1.1,
@@ -8991,7 +9302,7 @@
       "source": "Carbon Pulse",
       "published": "2026-06-16T07:00:00Z",
       "summary": "India, Japan adopt rules under JCM, paving way for Article 6 projects Carbon Pulse",
-      "collected_at": "2026-10-18T11:03:17Z",
+      "collected_at": "2026-10-20T21:36:29Z",
       "_collector_source_id": "carbon_pulse_india",
       "_collector_source_name": "Carbon Pulse — India",
       "_priority": 1.2,
@@ -9101,7 +9412,7 @@
       "source": "The CSR Universe",
       "published": "2026-06-16T07:00:00Z",
       "summary": "Carbon Credits, Offsets and Allowances: Clearing the Jargon The CSR Universe",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -9174,7 +9485,7 @@
       "source": "S&P Global",
       "published": "2026-06-15T07:00:00Z",
       "summary": "Indian biochar developers optimistic on CDR demand despite Microsoft's procurement pace S&P Global",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:39Z",
       "_collector_source_id": "india_biochar_removals",
       "_collector_source_name": "India biochar and removals",
       "_priority": 0.95,
@@ -9213,7 +9524,7 @@
       "source": "Data Center Dynamics",
       "published": "2026-06-12T07:00:00Z",
       "summary": "Microsoft to purchase 36,920 tons of carbon removal credits from ERW firm Alt Carbon in Darjeeling, India Data Center Dynamics",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:39Z",
       "_collector_source_id": "india_biochar_removals",
       "_collector_source_name": "India biochar and removals",
       "_priority": 0.95,
@@ -9255,7 +9566,7 @@
       "source": "ESG Today",
       "published": "2026-06-12T07:00:00Z",
       "summary": "Microsoft Signs ERW Carbon Removal Deal in India with Alt Carbon ESG Today",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:39Z",
       "_collector_source_id": "india_biochar_removals",
       "_collector_source_name": "India biochar and removals",
       "_priority": 0.95,
@@ -9370,7 +9681,7 @@
       "source": "TechCrunch",
       "published": "2026-06-11T07:00:00Z",
       "summary": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal TechCrunch",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:39Z",
       "_collector_source_id": "india_biochar_removals",
       "_collector_source_name": "India biochar and removals",
       "_priority": 0.95,
@@ -9477,6 +9788,46 @@
         "confidence": "low"
       },
       "event_id": "evt_312df40df5a1"
+    },
+    {
+      "id": "036d6d1bea18bfb40031196d",
+      "title": "GOVERNMENT OF INDIA MINISTRY OF POWER LOK SABHA UNSTARRED QUESTION NO.2365 ANSWERED ON 13.03.2025 POWER SUPPLY IN HARYANA †236 - Ministry Of Power",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS0RjVm1LcmtvMHlDaDltODFVMlcxazR3RW1TS1JUcnVhRndzejdMTHhzTkVPYlRkUEpYd2s3dVNDXy1YbU5ZSkZZNnV3UEJjcW85UmZIcHZ4aXFQRERHVjJ6Mk1VRl9PVnM4bzU5M01hZUpod2dNN2ZoZnF2TFRvdkZQMWdqeG5qaU1kQmJPbnc?oc=5",
+      "source": "Ministry Of Power",
+      "published": "2026-06-09T01:21:01Z",
+      "summary": "GOVERNMENT OF INDIA MINISTRY OF POWER LOK SABHA UNSTARRED QUESTION NO.2365 ANSWERED ON 13.03.2025 POWER SUPPLY IN HARYANA †236 Ministry Of Power",
+      "collected_at": "2026-10-20T21:36:25Z",
+      "_collector_source_id": "power_ministry_official",
+      "_collector_source_name": "Ministry of Power",
+      "_priority": 1.15,
+      "_official": true,
+      "relevance_score": 6.9,
+      "relevance_reasons": [
+        "India geography",
+        "india"
+      ],
+      "category": "Policy & regulation",
+      "tags": [
+        "government",
+        "ministry",
+        "supply"
+      ],
+      "entities": {
+        "projects": [],
+        "developers": [],
+        "methodologies": [],
+        "registries": []
+      },
+      "geo": {
+        "level": "state",
+        "district": null,
+        "state": "Haryana",
+        "lat": 29.2955,
+        "lon": 76.0531,
+        "method": "state_only",
+        "confidence": "medium"
+      },
+      "event_id": "evt_e4c96b95c6f7"
     },
     {
       "id": "dc4f2893d4d2c247bcc2b035",
@@ -9639,18 +9990,18 @@
       "event_id": "evt_f66186fe50ef"
     },
     {
-      "id": "303db9acf1d33848a9ccb707",
-      "title": "India Showcases Carbon Credit Trading Scheme and Renewable Energy Standards at WTO Trade and Environment Week 2026 - PIB",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PM2hIMW5fbFdwb1V1aGRiZU9NS0pZNjA1WGRYZGRyaHRLUEVBTE1UUW5RZFJIMWNuLWdzcENHMGZmc0NBZVBqbXhoMUxyeUNsMXYwV3hsd3c5Ti14V1JUeDhsSGtia0F2RUh5WnVJS1kxdTBkR0I1Y1RB?oc=5",
-      "source": "PIB",
+      "id": "e32ee87492bfbe030687f61b",
+      "title": "India Showcases Carbon Credit Trading Scheme and Renewable Energy Standards at WTO Trade and Environment Week 2026 - Press Information Bureau",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QVmdaSlQ5bW1TNm9YN0liM1RuUGZtaDdQMUp4elNXV3FmLXJibW14Zzh2czNSanZ4YW5tSjl2NUg0cGNaQlhTVzloejJVWUZwaUhZN2wxdGRfSlVRTU9rYnZja3B1eWtC?oc=5",
+      "source": "Press Information Bureau",
       "published": "2026-06-05T07:00:00Z",
-      "summary": "India Showcases Carbon Credit Trading Scheme and Renewable Energy Standards at WTO Trade and Environment Week 2026 PIB",
-      "collected_at": "2026-10-18T11:03:13Z",
+      "summary": "India Showcases Carbon Credit Trading Scheme and Renewable Energy Standards at WTO Trade and Environment Week 2026 Press Information Bureau",
+      "collected_at": "2026-10-20T21:36:25Z",
       "_collector_source_id": "pib_official",
       "_collector_source_name": "Government of India / PIB",
-      "_priority": 1.2,
+      "_priority": 1.38,
       "_official": true,
-      "relevance_score": 18.0,
+      "relevance_score": 20.7,
       "relevance_reasons": [
         "carbon credit",
         "carbon credit trading scheme",
@@ -9676,6 +10027,9 @@
         "method": "india_only",
         "confidence": "medium"
       },
+      "other_sources": [
+        "PIB"
+      ],
       "event_id": "evt_f66186fe50ef"
     },
     {
@@ -9685,7 +10039,7 @@
       "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
       "published": "2026-06-04T07:00:00Z",
       "summary": "Potential drivers of carbon price formation in the CCTS: Design and market dynamics in the Indian carbon market Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -9726,7 +10080,7 @@
       "source": "Energetica India Magazine",
       "published": "2026-06-04T07:00:00Z",
       "summary": "Jain Irrigation Commissions One of World’s Largest Biochar Facilities in Maharashtra Energetica India Magazine",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:39Z",
       "_collector_source_id": "india_biochar_removals",
       "_collector_source_name": "India biochar and removals",
       "_priority": 0.95,
@@ -9883,7 +10237,7 @@
       "source": "Global Agriculture",
       "published": "2026-06-03T07:00:00Z",
       "summary": "Jain Irrigation Launches 20,000-Tonne Biochar Facility in India Global Agriculture",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:39Z",
       "_collector_source_id": "india_biochar_removals",
       "_collector_source_name": "India biochar and removals",
       "_priority": 0.95,
@@ -10004,7 +10358,7 @@
       "source": "Bureau of Energy Efficiency (BEE) India",
       "published": "2026-05-22T12:51:14Z",
       "summary": "Detailed Procedure for Compliance Mechanism under CCTS dfdv Bureau of Energy Efficiency (BEE) India",
-      "collected_at": "2026-10-18T11:03:12Z",
+      "collected_at": "2026-10-20T21:36:24Z",
       "_collector_source_id": "bee_official",
       "_collector_source_name": "Bureau of Energy Efficiency / Indian Carbon Market",
       "_priority": 1.5,
@@ -10079,7 +10433,7 @@
       "source": "EBC Financial Group",
       "published": "2026-05-22T07:00:00Z",
       "summary": "India’s Carbon Market: How Carbon Credits Could Reprice Heavy Industry EBC Financial Group",
-      "collected_at": "2026-10-18T11:03:08Z",
+      "collected_at": "2026-10-20T21:36:20Z",
       "_collector_source_id": "india_vcm_core",
       "_collector_source_name": "India VCM core",
       "_priority": 1.05,
@@ -10117,7 +10471,7 @@
       "source": "Quantum Commodity Intelligence",
       "published": "2026-05-22T07:00:00Z",
       "summary": "ANALYSIS: Clean cookstove projects turn uneconomic in India Quantum Commodity Intelligence",
-      "collected_at": "2026-10-18T11:03:24Z",
+      "collected_at": "2026-10-20T21:36:38Z",
       "_collector_source_id": "india_household_projects",
       "_collector_source_name": "India household and community carbon projects",
       "_priority": 0.9,
@@ -10303,7 +10657,7 @@
       "source": "Quantum Commodity Intelligence",
       "published": "2026-05-13T07:00:00Z",
       "summary": "INTERVIEW: Indian state's first biochar project eyes 6,000 CDRs Quantum Commodity Intelligence",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:39Z",
       "_collector_source_id": "india_biochar_removals",
       "_collector_source_name": "India biochar and removals",
       "_priority": 0.95,
@@ -10342,7 +10696,7 @@
       "source": "AL Circle",
       "published": "2026-05-12T07:00:00Z",
       "summary": "CBAM hits Indian aluminium export by 41%: Indian Carbon Credit Trading Scheme to reverse the slide AL Circle",
-      "collected_at": "2026-10-18T11:03:10Z",
+      "collected_at": "2026-10-20T21:36:22Z",
       "_collector_source_id": "india_carbon_market_policy",
       "_collector_source_name": "Indian Carbon Market / CCTS",
       "_priority": 1.15,
@@ -10421,7 +10775,7 @@
       "source": "India Today NE",
       "published": "2026-05-11T07:00:00Z",
       "summary": "Meghalaya launches community biochar plant to boost organic farming incomes India Today NE",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:39Z",
       "_collector_source_id": "india_biochar_removals",
       "_collector_source_name": "India biochar and removals",
       "_priority": 0.95,
@@ -10532,7 +10886,7 @@
       "source": "Moneycontrol.com",
       "published": "2026-05-09T07:00:00Z",
       "summary": "Carbon credit: Study finds underground treasure of Delhi's forests Moneycontrol.com",
-      "collected_at": "2026-09-20T20:48:52Z",
+      "collected_at": "2026-10-20T21:36:33Z",
       "_collector_source_id": "moneycontrol_india",
       "_collector_source_name": "Moneycontrol",
       "_priority": 1.0,
@@ -10570,7 +10924,7 @@
       "source": "South China Morning Post",
       "published": "2026-05-08T07:00:00Z",
       "summary": "Can India’s rice farmers reap from US$30 million Amazon carbon credit deal? South China Morning Post",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:38Z",
       "_collector_source_id": "india_methane_agriculture",
       "_collector_source_name": "India methane and agriculture projects",
       "_priority": 0.9,
@@ -10635,52 +10989,13 @@
       "event_id": "evt_35c2eead0f89"
     },
     {
-      "id": "102781543d9c340131def67c",
-      "title": "Bureau of Energy Efficiency (BEE), Ministry of Power, Government of India - Bureau of Energy Efficiency (BEE) India",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUowbDlVYnZIYXg2YnREbWRyTE9WeWlrWUR0TEs2LU55UGVsRmRUYnVkMFVFRXJwSE5rR1Z2andETmhHdi10U1hzSXpBUWR4WjZaQWljUHJmMVVxOVhmXzV1Q0ttTnBTUm5VbXNLV0xFOERMRE1JMzNNSHhMOFZwejNLTkFDNkVG?oc=5",
-      "source": "Bureau of Energy Efficiency (BEE) India",
-      "published": "2026-05-08T00:14:02Z",
-      "summary": "Bureau of Energy Efficiency (BEE), Ministry of Power, Government of India Bureau of Energy Efficiency (BEE) India",
-      "collected_at": "2026-10-18T11:03:12Z",
-      "_collector_source_id": "bee_official",
-      "_collector_source_name": "Bureau of Energy Efficiency / Indian Carbon Market",
-      "_priority": 1.5,
-      "_official": true,
-      "relevance_score": 6.0,
-      "relevance_reasons": [
-        "india"
-      ],
-      "category": "Policy & regulation",
-      "tags": [
-        "government",
-        "ministry"
-      ],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "other_sources": [],
-      "event_id": "evt_bdc57368a1c6"
-    },
-    {
       "id": "76a520a2cf787ef6014498f9",
       "title": "Asia-Pacific carbon markets: Indonesia, China, India – where Article 6 will be shaped - Materia Rinnovabile | Renewable Matter",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT09IUTU2a01lT3g0M3cxQVkxTkJ6aTJtWENRZkVGV1RZVVlfOGJrVkRYekt3OVBiZnlnMkdIdFlRbjhIWHgxNjFlOG5IYWxqaGxUT3lKb1ZxdHI5S09CeVEyWHdJNnhhUVRxUWRDRm9NOEczanhjX2NGSTViRkdadUFFYV9nb3dmWEZwR3RBVkZnY0RpRVI0Ti1nQlNDMVNZcm5GaGJtYnZTcEZmTUVhUm5QZjA?oc=5",
       "source": "Materia Rinnovabile | Renewable Matter",
       "published": "2026-05-07T07:00:00Z",
       "summary": "Asia-Pacific carbon markets: Indonesia, China, India – where Article 6 will be shaped Materia Rinnovabile | Renewable Matter",
-      "collected_at": "2026-10-18T11:03:11Z",
+      "collected_at": "2026-10-20T21:36:23Z",
       "_collector_source_id": "india_article6",
       "_collector_source_name": "India Article 6",
       "_priority": 1.1,
@@ -10718,7 +11033,7 @@
       "source": "The Economic Times",
       "published": "2026-05-07T07:00:00Z",
       "summary": "The Gold Standard: How a Bootstrapped Company Outlasted Every Funded Rival in India’s Goldtech Boom The Economic Times",
-      "collected_at": "2026-10-18T11:03:26Z",
+      "collected_at": "2026-10-20T21:36:40Z",
       "_collector_source_id": "india_developer_activity",
       "_collector_source_name": "India carbon-project developers",
       "_priority": 0.9,
@@ -10759,12 +11074,12 @@
       "source": "Energetica India Magazine",
       "published": "2026-05-05T07:00:00Z",
       "summary": "CERC Notifies Rules for Carbon Credit Certificates Trading Under CCTS Energetica India Magazine",
-      "collected_at": "2026-10-18T11:03:10Z",
-      "_collector_source_id": "india_carbon_market_policy",
-      "_collector_source_name": "Indian Carbon Market / CCTS",
-      "_priority": 1.15,
+      "collected_at": "2026-10-20T21:36:24Z",
+      "_collector_source_id": "india_carbon_market_launch",
+      "_collector_source_name": "India carbon-market implementation",
+      "_priority": 1.0,
       "_official": false,
-      "relevance_score": 9.2,
+      "relevance_score": 8.0,
       "relevance_reasons": [
         "carbon credit",
         "india"
@@ -10798,7 +11113,7 @@
       "source": "Carbon Herald",
       "published": "2026-05-05T07:00:00Z",
       "summary": "India’s Prithu Raises $1.1M To Scale Carbon Removal Platform For Smallholder Farmers Carbon Herald",
-      "collected_at": "2026-10-18T11:03:18Z",
+      "collected_at": "2026-10-20T21:36:31Z",
       "_collector_source_id": "carbon_herald_india",
       "_collector_source_name": "Carbon Herald — India",
       "_priority": 0.95,
@@ -10910,7 +11225,7 @@
       "source": "Indian Startup Times",
       "published": "2026-04-29T07:00:00Z",
       "summary": "Prithu Secures Rs 10 Cr Seed Funding to Scale Carbon Removal Platform Indian Startup Times",
-      "collected_at": "2026-10-18T11:03:25Z",
+      "collected_at": "2026-10-20T21:36:39Z",
       "_collector_source_id": "india_biochar_removals",
       "_collector_source_name": "India biochar and removals",
       "_priority": 0.95,
@@ -11135,7 +11450,7 @@
       "source": "Press Information Bureau",
       "published": "2026-04-24T10:24:09Z",
       "summary": "Framework for Carbon Credit Trading Scheme (CCTS) Press Information Bureau",
-      "collected_at": "2026-10-18T11:03:13Z",
+      "collected_at": "2026-10-20T21:36:25Z",
       "_collector_source_id": "pib_official",
       "_collector_source_name": "Government of India / PIB",
       "_priority": 1.38,
@@ -11253,7 +11568,7 @@
       "source": "Times of Oman",
       "published": "2026-04-24T07:00:00Z",
       "summary": "India and South Korea sign Article 6.2 deal of the Paris Agreement Times of Oman",
-      "collected_at": "2026-10-18T11:03:11Z",
+      "collected_at": "2026-10-20T21:36:23Z",
       "_collector_source_id": "india_article6",
       "_collector_source_name": "India Article 6",
       "_priority": 1.1,
@@ -11322,687 +11637,6 @@
         "confidence": "medium"
       },
       "event_id": "evt_8b22c3452cf1"
-    },
-    {
-      "id": "abc23493e529d98ab28aa26f",
-      "title": "Modelling insights and design choices for a credible Indian carbon market: Workshop summary report - Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemt4aE9zOTJrZ3pYQVFKWmg1c2xGQjR2RjNRNU9nXzgtVzNiTlUwc2RsSGJ4ejRldUg3OHJmYmpmSFJXS1lXME9Ec1ctWFpjVFhQZ0FFdkdYZHNHSHMxTjA3OXNtYWowS2x3YlhZcXVscXh6eU5EUk1QLTRGV0ZFQzlzZVh3dnJTN0JNMngtRk81REVZRndUZ0JLQUVVV3YyT01GOW5ERFBzMVl6MlVhV0xn?oc=5",
-      "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "published": "2026-04-23T07:00:00Z",
-      "summary": "Modelling insights and design choices for a credible Indian carbon market: Workshop summary report Institute for Energy Economics and Financial Analysis (IEEFA)",
-      "collected_at": "2026-09-24T21:30:37Z",
-      "_collector_source_id": "india_carbon_market_policy",
-      "_collector_source_name": "Indian Carbon Market / CCTS",
-      "_priority": 1.15,
-      "_official": false,
-      "relevance_score": 12.65,
-      "relevance_reasons": [
-        "indian",
-        "indian carbon market"
-      ],
-      "category": "Policy & regulation",
-      "tags": [
-        "indian carbon market",
-        "market",
-        "report"
-      ],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_979fb3659840"
-    },
-    {
-      "id": "60642b63c93540fe06fe9618",
-      "title": "Verra Approves World’s First Carbon Credits Under New ARR Methodology VM0047 for Brazil Cerrado Project - global-agriculture.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbFZUQWt6VVQ4Und0NnVUNGhiYlVLVzlmRHp1QzVnRDd1SU1ha19NZ2tUUURBX01tUnlYLWI0dUxSdFh2VEZENUpEZkQ4eXBkWWZ3Z3c1NVd2VkhpLVloVWIxaENCWWktZ2d1WUEwcjJubXZ5Z1MwZ3pEOXdPRWxKYkdUNHpPY2xGM2ZCYkIwZU9XRG0zaUs2TjFfam1kZG8xdnNNdzRtTmtJMXQ4ZnhDVG80UU1VTy1Ubk1qdzRtVlhqRi1ac01CdEpGLUpZRU1tRENSS1FhWVo5QXNpcFBRbHVhaDRPOWtoLTFIbnZB?oc=5",
-      "source": "global-agriculture.com",
-      "published": "2026-04-23T07:00:00Z",
-      "summary": "Verra Approves World’s First Carbon Credits Under New ARR Methodology VM0047 for Brazil Cerrado Project global-agriculture.com",
-      "collected_at": "2026-10-02T05:36:01Z",
-      "_collector_source_id": "india_vcm_core",
-      "_collector_source_name": "India VCM core",
-      "_priority": 1.05,
-      "_official": false,
-      "relevance_score": 11.03,
-      "relevance_reasons": [
-        "carbon credits",
-        "methodology",
-        "verra"
-      ],
-      "category": "Registry & standards",
-      "tags": [
-        "methodology",
-        "project",
-        "verra"
-      ],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": [
-          "Verra"
-        ]
-      },
-      "geo": {
-        "level": "unresolved",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "none",
-        "confidence": "low"
-      },
-      "event_id": "evt_28adf4822e2d"
-    },
-    {
-      "id": "0f28793d3a873b8b4f29dbec",
-      "title": "Amazon Partners With Bayer-Backed Good Rice Alliance to Purchase Carbon Credits From Indian Rice Farmers - RuralVoice",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFN6RkpFaEV4eHY5Wnc2cG1pU1VWanpVeGtabVdCSURnX0xlM3g4amtWajN2VnlXaElLQWpaaXpiVWNiNW5JOUEzLS1MQUNsV3d5QjZqRjBCbm5zU28tWEhEaEtlTjlCR25zR2VsUE1tNjI4YWFnMWlaYmZiRGowSEZnUFVvUnlsanBhN1JkZDZhc2xSWDdtY25lUTJMQ1VhOTktVXE2YXpHaldqbVVTRVdGMUtqVFZaUERoUTh6SFJFNkpKaENTMFlyWm43eTZGdlZsQVFPZzdBQ2dJMWRCTjFWNA?oc=5",
-      "source": "RuralVoice",
-      "published": "2026-04-23T07:00:00Z",
-      "summary": "Amazon Partners With Bayer-Backed Good Rice Alliance to Purchase Carbon Credits From Indian Rice Farmers RuralVoice",
-      "collected_at": "2026-08-29T07:03:51Z",
-      "_collector_source_id": "india_vcm_core",
-      "_collector_source_name": "India VCM core",
-      "_priority": 1.05,
-      "_official": false,
-      "relevance_score": 9.45,
-      "relevance_reasons": [
-        "carbon credits",
-        "indian"
-      ],
-      "category": "Finance & investment",
-      "tags": [
-        "purchase"
-      ],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_f72ed2da4b9d",
-      "other_sources": [
-        "eng.ruralvoice.in"
-      ]
-    },
-    {
-      "id": "0817ba3819480cf88d8a8980",
-      "title": "Amazon Signs 685,000 Ton Carbon Credit Deal to Reduce Emissions from Rice Farming in India - ESG Today",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXV6Ujl4MlBVTngyWkFkQXduNXlSUmxzaEprYnpRYkNpMy1rQ1ZkV01yNFdSNmc1ZFZkTU04RGFNVU5PZ1ZIQUtySFBYcGduN29FSjIzRW5JRmdsb3NWLWs5SzEtRTRreVctX25FQkE3N1NQUzN0Skt6Y2x1WEMzd2lYODMtcnZXSlRwNXlzR3RTWnAtZFlpbzJVZ3RrVzFRcUk1bTZsV3R5X1R3WXZ4WU1zbl9jUQ?oc=5",
-      "source": "ESG Today",
-      "published": "2026-04-23T07:00:00Z",
-      "summary": "Amazon Signs 685,000 Ton Carbon Credit Deal to Reduce Emissions from Rice Farming in India ESG Today",
-      "collected_at": "2026-10-18T11:03:08Z",
-      "_collector_source_id": "india_vcm_core",
-      "_collector_source_name": "India VCM core",
-      "_priority": 1.05,
-      "_official": false,
-      "relevance_score": 8.4,
-      "relevance_reasons": [
-        "carbon credit",
-        "india"
-      ],
-      "category": "Other",
-      "tags": [],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_39beee63f4c3"
-    },
-    {
-      "id": "1922ebf25a2dbce7d3239594",
-      "title": "India and South Korea Sign Article 6.2 Deal as Global Carbon Trading Gains Momentum - CarbonCredits.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWTZ4c3pYeWhTOGZyVmNyaUd2SXY1RndnR3BpYWpmblZNWDNnZ3NXRVAwVWk5b0dMWER3aE5Tc3pTUllDd3RnNVNmMzIwd3NOU0VtcXNfQ3dFbGVncXNieTNhcXNkeEdnR2lfam1fRHlDZUN2NnZhQ01MMHdPNWM2aVVlaEo1MEhzbC1LTWFJWUJXNHhwY0VxTEJiZW1FMDhkNE5QbHM1VXRxUko3VXdF?oc=5",
-      "source": "CarbonCredits.com",
-      "published": "2026-04-23T07:00:00Z",
-      "summary": "India and South Korea Sign Article 6.2 Deal as Global Carbon Trading Gains Momentum CarbonCredits.com",
-      "collected_at": "2026-10-18T11:03:10Z",
-      "_collector_source_id": "india_issuance_retirement",
-      "_collector_source_name": "India issuance and retirement",
-      "_priority": 0.95,
-      "_official": false,
-      "relevance_score": 7.6,
-      "relevance_reasons": [
-        "article 6",
-        "india"
-      ],
-      "category": "Policy & regulation",
-      "tags": [
-        "article 6",
-        "trading"
-      ],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_f292b494f045"
-    },
-    {
-      "id": "ac32b5f311e1b4404f8f0246",
-      "title": "Amazon Signs Deal with Bayer-Backed The Good Rice Alliance, Commits to 685,000+ Carbon Credits - Global Agriculture",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdlhDaVBvZHZ5T2dybFZlZ3o0ZVJIbE9TSW56ak1PQzZOUUt2T1FBZFE1eW9KSF8zMDV0TEFqVnRURXF3UWFhdXh1dlJQM1JMWE00Q0JXejFIWkxkck9JcElLY2d4VGw4eDNMSnJ4NmxzLTROdlM5eWh5a3lhUFJwZzV1WkJ5TGZ6bllNbGN5dUk5cnFjbURiZTR1bWpUYlBCUWJBS054TGN3clB1N05uRTJsUVhBWFNwZ00tNkxiWjc2SlRocjY4akV6NF9zM1hvcjFlZml3b0R3VHNuMmc4?oc=5",
-      "source": "Global Agriculture",
-      "published": "2026-04-23T07:00:00Z",
-      "summary": "Amazon Signs Deal with Bayer-Backed The Good Rice Alliance, Commits to 685,000+ Carbon Credits Global Agriculture",
-      "collected_at": "2026-10-09T06:07:28Z",
-      "_collector_source_id": "india_vcm_core",
-      "_collector_source_name": "India VCM core",
-      "_priority": 1.05,
-      "_official": false,
-      "relevance_score": 5.25,
-      "relevance_reasons": [
-        "carbon credits"
-      ],
-      "category": "Other",
-      "tags": [],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "unresolved",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "none",
-        "confidence": "low"
-      },
-      "event_id": "evt_f6a85c201496"
-    },
-    {
-      "id": "57f2baa3330798185dc9bedf",
-      "title": "Press Releases - Bureau of Energy Efficiency (BEE) India",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpVXRCV0ZENUFMaF9rdVhsMXNpRmdubTZUU0VwNUNacThlSVhlcEpVdkpSVVZvQ2hteGR5dW9KV1RFNW9fb0pZbklETnRNcWlCUVZsemhlcjNwNTEwa2tjaHRueFM5d002b0dpS1dXdUsybndBYXlEbHVvTjY4Zw?oc=5",
-      "source": "Bureau of Energy Efficiency (BEE) India",
-      "published": "2026-04-23T01:02:17Z",
-      "summary": "Press Releases Bureau of Energy Efficiency (BEE) India",
-      "collected_at": "2026-10-15T11:27:30Z",
-      "_collector_source_id": "bee_official",
-      "_collector_source_name": "Bureau of Energy Efficiency / Indian Carbon Market",
-      "_priority": 1.5,
-      "_official": true,
-      "relevance_score": 6.0,
-      "relevance_reasons": [
-        "india"
-      ],
-      "category": "Other",
-      "tags": [],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_c0818b2e09e0"
-    },
-    {
-      "id": "bf6b7a31318a6f9e4c5d5fb6",
-      "title": "Amazon Commits $30M To India Rice Carbon Credits, Targeting 685,000 Tonnes Of Methane Reduction - ESG News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQjlLZXR5QU81bGpnUWdtMVZoazdSbk1wMDN3S3F2VldnLVFCVzJHQ0tGSlg2eFpRV2l2TDRKTThZazgzZi1BWmdEcWNrOFNCMTluaWM5RUY5VGQ5TlZmUEtIT3ZzandQYVBKamR5dktQZVp6MFczbHJtZ3BZWDhKdHRBZnBpTlB0TmFZQzhLNXZ6U0xlOHRQMjBtMkFRRVk5eXZzN0I5UHA1dGVaVDlFSFNhRQ?oc=5",
-      "source": "ESG News",
-      "published": "2026-04-22T07:00:00Z",
-      "summary": "Amazon Commits $30M To India Rice Carbon Credits, Targeting 685,000 Tonnes Of Methane Reduction ESG News",
-      "collected_at": "2026-10-18T11:03:08Z",
-      "_collector_source_id": "india_vcm_core",
-      "_collector_source_name": "India VCM core",
-      "_priority": 1.05,
-      "_official": false,
-      "relevance_score": 11.03,
-      "relevance_reasons": [
-        "carbon credits",
-        "india",
-        "methane"
-      ],
-      "category": "Other",
-      "tags": [],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_1da00c34ba92"
-    },
-    {
-      "id": "cca0684f2a92e732757e0fd8",
-      "title": "Amazon's $30 million deal: E-commerce giant signs carbon credit agreement with Indian rice farmers; here' - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPbDVzc3FmN3htb2RHS2RwMWo0LU9WTk40Sjk2dDZ2MXZnZTZnMEEwZF9fUFRYWmxHQU80Vld6VjBJQ3NtY3ViOUJZai1LNldNaHBUMkNTVTNHS19aMUx0VGpIT0ZGSnBFY3gzSmdlUlczVVBnLTBVX08wY3JPdHQ5Njl0RU5RWFVzbjBBRUZkaHlwdlhUaHlqTFpHUmFxczY2S18yRG9malRjcmpDbThBTjB6OV9zY3EyZGNPX2N4OUd6Sm1HNWZ6VVpQS1lveElZZ1VWYk9VbjdIS3MyaGNuNHhRcjY0NjhhZDBUQWVaem1tdXlrYXI1Rlp6NlBDS21qWWlIWC1XdjdCUFBnV2lQS292TERYNnVrSk92aHctbTNnVWoxcE1GMtIBrgJBVV95cUxOTXBrQjVMLTlpX2U1LS1HOVhOTVN5aWpsVmpyVERDSU84azRiWHJDV3BneXd1R2YyeXdOY0tNb3VYWWg3ZXFTcmVRbFNzTXR0Zy1STHNKbldqMW9KQjVoQmthamg0a1NObUxJdThuMGR0czM4Q1hTYnBuY1lteEJROURZMzhwNFJLaXA0dXpmYWpETS1ISUlVSzdnRDNnY3UtaXZlamM5NjlEVm5USl9VR09KeUNCYVIweHJSSEdXTkwyWml6T3htaUVTTU5fOWJXSWZkbmd3QlVEYXZmTzc0bGNJWm9wTmlwZ3EydGJPUFlLTDJWcVFaRHdlZ1U1QTF6N3dzbjNMZkZOaGdJeDR0Y2NJdnJxS1d4aDVsT2xNY1hUMkk1VVM2T0xKVEZodw?oc=5",
-      "source": "The Times of India",
-      "published": "2026-04-22T07:00:00Z",
-      "summary": "Amazon's $30 million deal: E-commerce giant signs carbon credit agreement with Indian rice farmers; here' The Times of India",
-      "collected_at": "2026-10-18T11:03:24Z",
-      "_collector_source_id": "india_nature_projects",
-      "_collector_source_name": "India nature-based carbon projects",
-      "_priority": 0.9,
-      "_official": false,
-      "relevance_score": 10.8,
-      "relevance_reasons": [
-        "carbon credit",
-        "india",
-        "indian"
-      ],
-      "category": "Other",
-      "tags": [],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_8f2f2d62d082"
-    },
-    {
-      "id": "fb96db05e79f603c0fa4e015",
-      "title": "Amazon to buy 685k carbon credits from Indian rice farmers - Carbon Pulse",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9hRWpvdWwwb28wLWZOSEdHdWl6MWZPeWVhU3REUFZvT0w4eG5UX0NBLV84SEFSVDF1UWQ0RTluTmNubmpOSlVN?oc=5",
-      "source": "Carbon Pulse",
-      "published": "2026-04-22T07:00:00Z",
-      "summary": "Amazon to buy 685k carbon credits from Indian rice farmers Carbon Pulse",
-      "collected_at": "2026-10-18T11:03:18Z",
-      "_collector_source_id": "carbon_pulse_projects",
-      "_collector_source_name": "Carbon Pulse — projects and methodologies",
-      "_priority": 1.1,
-      "_official": false,
-      "relevance_score": 9.9,
-      "relevance_reasons": [
-        "carbon credits",
-        "indian"
-      ],
-      "category": "Other",
-      "tags": [],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_cac078818631"
-    },
-    {
-      "id": "c2d09a7b7a5dc7af77985e17",
-      "title": "Amazon To Purchase Carbon Credits Created By Smallholder Rice Farmers In India - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR0x5ZlJ3MkJKems2Z2lJWE14VkM4dHpuMVlaNm5reDJuLU9Ga3BXWnZMR1RLbkVMUHBPblpWRkxCSzNrenpmX1Y5WlczVnpiaW1ETFZWY3JsSGhiNEViWTRlU0ZsWUFRUnlOWkRDNjNYWWVlcjRRZ3FablBBX3ZRTjdYdmRQUHlwRk9UN0s1d0NvcjZLbW80bk0xSDZRbHVXYUEwY3ZwbFZ1aWhzcnRicW5kVUlCaHBUYzdnUzlBeW_SAcgBQVVfeXFMTmlIMHdsaXUtX3lvekJxSl9BNG03aGhHOFJDRi1tNnZ2Z0dYVDRoOEY1dnRXMnZLeHlVajVzQkNSM0ZOUHh3bFVPeFhNaXRXcU1rOFVwb2tvWmFMSjllR0pYSDNSLXFyanh4enNFbzloN2VhTGVaSTM5blB6REhOYkUxb3hndlpfMDY1RDhYM21OX19wT2huUUF0X1lxVkFieFFFcWJjMHgzNUV0eUMwaDFjanY0c3hVZHRPdEtoeVE3TnN3LWxvUGI?oc=5",
-      "source": "NDTV Profit",
-      "published": "2026-04-22T07:00:00Z",
-      "summary": "Amazon To Purchase Carbon Credits Created By Smallholder Rice Farmers In India NDTV Profit",
-      "collected_at": "2026-08-21T13:10:49Z",
-      "_collector_source_id": "india_vcm_core",
-      "_collector_source_name": "India VCM core",
-      "_priority": 1.05,
-      "_official": false,
-      "relevance_score": 9.45,
-      "relevance_reasons": [
-        "carbon credits",
-        "india"
-      ],
-      "category": "Finance & investment",
-      "tags": [
-        "purchase"
-      ],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_dad101ba02b0"
-    },
-    {
-      "id": "7b5c83e4fe9e659f6f651e47",
-      "title": "Amazon to buy carbon credits generated by smallholder rice farmers in India under TGRA - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeGVLTWxnSXNZME9mRHptaDlnZ0U5QVIyWEpfaHAyamhlalFHanY2VThSNngwaDhTbGllQmNSZXNWOGt2S2o1MjBUb3A3TUtfNG01STNMWm8wdXdtZ2VxWVRPZ3p0VkpiTnhIZGg2R3pjMkNkbUNueHlQLWEtemwzRy1HQTlkelZSUlc1clRMb3RrQ3ZoWmpwY0gxeFVocTU0NGZKQ3Jic2MtUWRBaHNSN2ZRU3lfYlhlTUo2cGFHdUVnLW1QVFBaTjR6dzBSXzI0Ul9PeHdNX0NLZDQ?oc=5",
-      "source": "Moneycontrol.com",
-      "published": "2026-04-22T07:00:00Z",
-      "summary": "Amazon to buy carbon credits generated by smallholder rice farmers in India under TGRA Moneycontrol.com",
-      "collected_at": "2026-08-26T20:03:25Z",
-      "_collector_source_id": "india_vcm_core",
-      "_collector_source_name": "India VCM core",
-      "_priority": 1.05,
-      "_official": false,
-      "relevance_score": 9.45,
-      "relevance_reasons": [
-        "carbon credits",
-        "india"
-      ],
-      "category": "Other",
-      "tags": [],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_dad101ba02b0",
-      "other_sources": [
-        "moneycontrol.com"
-      ]
-    },
-    {
-      "id": "09f2dd67f87a93995e8afe7c",
-      "title": "Amazon signs $30 million deal to buy carbon credits from Indian rice farmers - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYm9xenp2UHAzZkhKRFdsel9qOUxFVy1sSWVVRWNDX0ljQ2NJOFlDeVU4Wnc4ckFYN002V1B2ZnUwbHNFZ080a3NaNXQ4Z3RBUFZHQ01ZYlpFNzlYZ3o4OFpHcDF4ZnBtRExUbm1NX1d1eFRDOG9qNE1xeUxpUl9FSUFtSVN2QXNhUEplODkyUUFtZm1NUmVrZ19iM2tDY25rUGhZd1dMS0xRSEI3UGxYcTNCTmhUTXdqNWpoMGtIckprYmhMak44TnNtZ1BSSGs5T0VXaFhwcDFuOTlnV1VxN1RFUWRZbUJUT0HSAe8BQVVfeXFMT1R1Q3ZZMGZPWEFlaUhnbmoyNmladmZlLXNSR3RQOFN3OF9jbXY3NmdyUVJYR3dzVGMzUzc5cmR5dzBpRG1DSHFiTERHLXJUY1dOUkJDeGhoSWgyem9vdEVvak1ZRHluN1B6UUJkckVKblFmc3hpOEFRM21Xa19uX0NvVjJpVUdmaUpVZGZVeWZrWGowcnJpbVNvQ1kzeFp1cmd2SVlKWm1qaDIyY0U1emRfUWVFMXRtcUZQWV9ld3pjTzVRR1hIb2xVcW9WcndVUmh3aE1DT1VLMFBDQ2lKekZjdGpXczUxQnN4U282NHc?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-04-22T07:00:00Z",
-      "summary": "Amazon signs $30 million deal to buy carbon credits from Indian rice farmers The Economic Times",
-      "collected_at": "2026-10-18T11:03:08Z",
-      "_collector_source_id": "india_vcm_core",
-      "_collector_source_name": "India VCM core",
-      "_priority": 1.05,
-      "_official": false,
-      "relevance_score": 9.45,
-      "relevance_reasons": [
-        "carbon credits",
-        "indian"
-      ],
-      "category": "Other",
-      "tags": [],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_cac078818631"
-    },
-    {
-      "id": "cd97d165430f30a00e629f14",
-      "title": "Amazon inks $30m carbon credit deal with Indian rice farmers - Indian Television Dot Com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRk9QclNrOHpmQlNINjJRZGZzYi0xU0lDakNiWkpfNmhYMk4zcUlUVjJuTzNOTWZxUE02VWJ5Z1VFVFZrMTI0RFFYc2t5SkNpWXpXY28tYzBQa3dYa1d1T21RS0Y0ellkcmdfVHZKVWNXaXJpVXdkNHoteFFjUnVGa0N3bWlBNTZZU3gtSzNZSlpFZzRhZkpWOA?oc=5",
-      "source": "Indian Television Dot Com",
-      "published": "2026-04-22T07:00:00Z",
-      "summary": "Amazon inks $30m carbon credit deal with Indian rice farmers Indian Television Dot Com",
-      "collected_at": "2026-10-18T11:03:25Z",
-      "_collector_source_id": "india_methane_agriculture",
-      "_collector_source_name": "India methane and agriculture projects",
-      "_priority": 0.9,
-      "_official": false,
-      "relevance_score": 7.2,
-      "relevance_reasons": [
-        "carbon credit",
-        "indian"
-      ],
-      "category": "Other",
-      "tags": [],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_cac078818631"
-    },
-    {
-      "id": "d4a31c4dce16d0bcb9e98371",
-      "title": "A Drone, A Tree, A Carbon Credit: How India's Farmers Are Turning Forests Into Futures - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONGNCeUl2M2Q3d2ZKaWVHRlBYR1plUDZLSFlfdDhBQzVrdzNsTlBvbEg2ekxXY0M0WXZkMmNEUVBIbGduOURoUnlEc3l0Q3F5X1I3ekVnNGxnNGZzZnNtRUQ2bDU0MUNVenZrWDEwVE8zSEl6Zy0zVHBrdXNkMDZZTVZpLUtmdE1WanFFSnZ6LWppLU0xZGlXaWE1TV94ODItaXc0bTRXcHNnYlpqcUxLTExhZmdoS21uSmZPVkhKb04zQkpmaERWaEVR?oc=5",
-      "source": "Forbes",
-      "published": "2026-04-22T07:00:00Z",
-      "summary": "A Drone, A Tree, A Carbon Credit: How India's Farmers Are Turning Forests Into Futures Forbes",
-      "collected_at": "2026-09-24T21:30:55Z",
-      "_collector_source_id": "india_nature_projects",
-      "_collector_source_name": "India nature-based carbon projects",
-      "_priority": 0.9,
-      "_official": false,
-      "relevance_score": 7.2,
-      "relevance_reasons": [
-        "carbon credit",
-        "india"
-      ],
-      "category": "Other",
-      "tags": [],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_4a1ad231939e"
-    },
-    {
-      "id": "fdea8d26583449342155e3f9",
-      "title": "Amazon inks $30m carbon removal deal with the Good Rice Alliance in India - report - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaXllZ0pPdXhvcENMVGR1ZWlsUFlZQTdDLWZEQ05YSnhsMHJNQzZwWGNxZFQ0bHM5aFFCVUtPTUNLMzFsRWFLQ2dQUzUxWlFuTXJEQnQ4WXBVb1g3a0hHUFVxTlMxX3h1X1NheTJYbWRZQVBuWF8xYnVEZW5DMHVfRGZrUXoxYmZYU2RnUVhZSU9YZldDckNlUnRBM1JYaVkwM1plZWFkSWNvUk55S1R6RFlZajZ4TW5wekNka1N4TFg?oc=5",
-      "source": "Data Center Dynamics",
-      "published": "2026-04-22T07:00:00Z",
-      "summary": "Amazon inks $30m carbon removal deal with the Good Rice Alliance in India - report Data Center Dynamics",
-      "collected_at": "2026-10-18T11:03:25Z",
-      "_collector_source_id": "india_biochar_removals",
-      "_collector_source_name": "India biochar and removals",
-      "_priority": 0.95,
-      "_official": false,
-      "relevance_score": 6.65,
-      "relevance_reasons": [
-        "carbon removal",
-        "india"
-      ],
-      "category": "Carbon removals",
-      "tags": [
-        "carbon removal",
-        "report"
-      ],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "other_sources": [
-        "BeBeez International"
-      ],
-      "event_id": "evt_ccf968ac2bd2"
-    },
-    {
-      "id": "96cb39d23d291e6f5d7aacd8",
-      "title": "News Notices - Bureau of Energy Efficiency (BEE) India",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hNDdXSDI2aG9KNG50YmVXd1c4SGJqa1JkaHNkOEVPbWFqalh5Z2lSUGdWcjlfRXFsTDNXUHlrVkZ5Q094aUhCcWxKdVpZWUZhMWd5cVBTN1oyM3A4SVBZSzhGRG5pSDI0WW9oUnJnb1JxZldsVTdPVGZJTnVBZw?oc=5",
-      "source": "Bureau of Energy Efficiency (BEE) India",
-      "published": "2026-04-22T00:20:13Z",
-      "summary": "News Notices Bureau of Energy Efficiency (BEE) India",
-      "collected_at": "2026-10-16T04:30:37Z",
-      "_collector_source_id": "bee_official",
-      "_collector_source_name": "Bureau of Energy Efficiency / Indian Carbon Market",
-      "_priority": 1.5,
-      "_official": true,
-      "relevance_score": 6.0,
-      "relevance_reasons": [
-        "india"
-      ],
-      "category": "Other",
-      "tags": [],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_08db65910712"
-    },
-    {
-      "id": "b6967bd43e0fe572d6711a01",
-      "title": "Empaneled Pool of Subject Matter Experts in the Offset Mechanism under Carbon Credit Trading Scheme - Bureau of Energy Efficiency (BEE)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnppcE5ORFV1OVN4NkdqbjNSNXFudVRRZWJvaVNfMHhzWHFJamZWTzdtTXRpYnBXQkJqVmJ0VU11WVpjQzdJdGZ0SjZmYlFFWnNYczc2Zi1KVTM2Z2QzNjUwOHJVdHlJOFg3bTF0ZUI3QUFlTk5hTnZ6NE1MbmprT2dzUUdGTGVFZlVaX0tR?oc=5",
-      "source": "Bureau of Energy Efficiency (BEE)",
-      "published": "2026-04-21T14:32:17Z",
-      "summary": "Empaneled Pool of Subject Matter Experts in the Offset Mechanism under Carbon Credit Trading Scheme Bureau of Energy Efficiency (BEE)",
-      "collected_at": "2026-10-18T11:03:12Z",
-      "_collector_source_id": "bee_official",
-      "_collector_source_name": "Bureau of Energy Efficiency / Indian Carbon Market",
-      "_priority": 1.5,
-      "_official": true,
-      "relevance_score": 24.0,
-      "relevance_reasons": [
-        "carbon credit",
-        "carbon credit trading scheme",
-        "offset mechanism"
-      ],
-      "category": "Policy & regulation",
-      "tags": [
-        "carbon credit trading scheme",
-        "trading"
-      ],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "unresolved",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "none",
-        "confidence": "low"
-      },
-      "event_id": "evt_7ff1ce097bce"
     }
   ]
 }
