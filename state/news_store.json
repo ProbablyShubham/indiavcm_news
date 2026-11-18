@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-17T21:04:26Z",
+  "generated_at": "2026-11-18T07:32:17Z",
   "items": [
     {
       "id": "a70239449bc6308223a038c2",
@@ -12451,118 +12451,6 @@
         "confidence": "medium"
       },
       "event_id": "evt_2fc5f0a17214"
-    },
-    {
-      "id": "135e921b3ead57e2418977b0",
-      "title": "Detailed Procedure for Offset Mechanism and Methodologies - Bureau of Energy Efficiency (BEE India)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13SDVwNDlpX2ZWeU90T2FOcV9Fb2tnZnQ5eUI4Q0JkSXI5MGNRZ0dfSzJZdUdVVUkzZGZhQ0hsdDdmQTJRLUlGS2lfSUZZNUFIdHE4cmtxYjZTV3ZWUTVzU2xQRTZvbWJVOHlZVEZES0FwYzFFSWE5R0NobXpzUQ?oc=5",
-      "source": "Bureau of Energy Efficiency (BEE India)",
-      "published": "2026-05-22T07:00:00Z",
-      "summary": "Detailed Procedure for Offset Mechanism and Methodologies Bureau of Energy Efficiency (BEE India)",
-      "collected_at": "2026-10-16T04:30:37Z",
-      "_collector_source_id": "bee_official",
-      "_collector_source_name": "Bureau of Energy Efficiency / Indian Carbon Market",
-      "_priority": 1.5,
-      "_official": true,
-      "relevance_score": 13.5,
-      "relevance_reasons": [
-        "india",
-        "offset mechanism"
-      ],
-      "category": "Methodology",
-      "tags": [
-        "methodologies"
-      ],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_08e8b1985074"
-    },
-    {
-      "id": "2f09246beb1bb77060e04e77",
-      "title": "India’s Carbon Market: How Carbon Credits Could Reprice Heavy Industry - EBC Financial Group",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTdpelNNZm5sTEdkQ3VsUDRZdXV5Xzlxb1ExUDNrT1VCVUstVzVveFd5M3hSNnhZOGVtd0NQM2kzdnRyRm1QTXlsV29FbUdtMUM1S1NnX2VOQnBwOU1nLW1lckhIS1JFOGNjQWtMOXpfWjFqQ1N5MEVDZWVSZTJYaQ?oc=5",
-      "source": "EBC Financial Group",
-      "published": "2026-05-22T07:00:00Z",
-      "summary": "India’s Carbon Market: How Carbon Credits Could Reprice Heavy Industry EBC Financial Group",
-      "collected_at": "2026-11-15T06:29:20Z",
-      "_collector_source_id": "india_issuance_retirement",
-      "_collector_source_name": "India issuance and retirement",
-      "_priority": 0.95,
-      "_official": false,
-      "relevance_score": 8.55,
-      "relevance_reasons": [
-        "carbon credits",
-        "india"
-      ],
-      "category": "Market & pricing",
-      "tags": [
-        "market"
-      ],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_603e52c004a4"
-    },
-    {
-      "id": "aaac81593d450c9f9b13c875",
-      "title": "ANALYSIS: Clean cookstove projects turn uneconomic in India - Quantum Commodity Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmtDQzQ4NTdEaGY1MmFQR3U3aFpfLWlpd2I1bjlzeUVaN3NSd3BHWmxiNHlnaEZLQUFKTzg5Qk5jSDVDX0NyNDJueFhBelMwempBUk16REtxV0pXekJiSUlOSko1SjBDNU9mOWNWYzFxb2haR0VtRi00b0lONS1hbEsxSXBmc1Zka3A1RzM0TGp6QU5qLVBvMXJQdFNLd1E2MFBIaTlsY0FnMTNo?oc=5",
-      "source": "Quantum Commodity Intelligence",
-      "published": "2026-05-22T07:00:00Z",
-      "summary": "ANALYSIS: Clean cookstove projects turn uneconomic in India Quantum Commodity Intelligence",
-      "collected_at": "2026-11-02T15:49:38Z",
-      "_collector_source_id": "india_household_projects",
-      "_collector_source_name": "India household and community carbon projects",
-      "_priority": 0.9,
-      "_official": false,
-      "relevance_score": 5.4,
-      "relevance_reasons": [
-        "cookstove",
-        "india"
-      ],
-      "category": "Other",
-      "tags": [],
-      "entities": {
-        "projects": [],
-        "developers": [],
-        "methodologies": [],
-        "registries": []
-      },
-      "geo": {
-        "level": "national",
-        "district": null,
-        "state": null,
-        "lat": null,
-        "lon": null,
-        "method": "india_only",
-        "confidence": "medium"
-      },
-      "event_id": "evt_4a9c955506a2"
     }
   ]
 }
